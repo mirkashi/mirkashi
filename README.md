@@ -14,7 +14,6 @@
 
 🌱 I’m currently learning web languages like HTML,CSS,JS,PHP,SQUAL etc,and also learning c++,
 
-💞️ I’m also self learning Javascript.
 
 <!---
 mirkashi/mirkashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
