@@ -1,5 +1,25 @@
-# 💫 About Me:
-🌱 I’m currently learning backend language.wordpress,figma etc<br><br>👨‍💻 All of my projects are available at https://mirprofilecard.netlify.app<br><br>💬 Ask me about HTML,CSS,JS AND PHP.<br><br>📫 How to reach me mirkashi111@gmail.com/kashifmir302@gmail.com<br><br>📄 Know about my experiences https://mirwebdeveloper.netlify.app<br><br>Certificate link [https://ehunar.org/certificate/5d6c9f7b34]<br><br>⚡ Fun fact i think self learner is best achivment<br><br>Connect with me:
+<h1 align="center">Hi 👋, I'm MIR KASHIF (MIR CODER)</h1>
+<h3 align="center">A passionate Web Developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirkashi&label=Profile%20views&color=0e75b6&style=flat" alt="mirkashi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirkashi" alt="mirkashi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/mircoder10" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mircoder10?logo=twitter&style=for-the-badge" alt="https://twitter.com/mircoder10" /></a></p>
+
+- 🌱 I’m currently learning **backend language.wordpress,figma etc**
+
+- 👨‍💻 All of my projects are available at [https://mirprofilecard.netlify.app](https://mirprofilecard.netlify.app)
+
+- 💬 Ask me about **HTML,CSS,JS AND PHP.**
+
+- 📫 How to reach me **mirkashi111@gmail.com/kashifmir302@gmail.com**
+
+- 📄 Know about my experiences [https://mirwebdeveloper.netlify.app](https://mirwebdeveloper.netlify.app)
+
+-    Certificate link [https://ehunar.org/certificate/5d6c9f7b34]
+
+- ⚡ Fun fact **i think self learner is best achivment**
 
 
 ## 🌐 Socials:
