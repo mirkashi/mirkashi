@@ -5,7 +5,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mirkashi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mirkashi&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mirkashi&icon=6&color=6)](https://www.buymeacoffee.com/mirkashi)
 
 - 🌱 I’m currently learning **backend language.wordpress,figma etc**
 
