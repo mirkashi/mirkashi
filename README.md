@@ -2,6 +2,9 @@
 🔭 I’m currently working on MERN Stack Projects (React, Node.js, MongoDB, Express)<br>👯 I’m looking to collaborate on open-source web development projects<br>🤝 I’m looking for help with optimizing large-scale applications & database design<br>🌱 I’m currently learning Next.js & Cloud Deployment (AWS, Vercel)<br>💬 Ask me about vaScript, MERN Stack, Full Stack Development<br>⚡ Fun fact I turn ☕ coffee into clean & scalable code 🚀
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mrswebdev/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mir-kashif-28987428b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:29475966) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@looploard10?lang=en-GB) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/LoopLoard10) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/mirkashi10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirkashi111@gmail.com) 
 
@@ -11,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mirkashi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mirkashi&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
