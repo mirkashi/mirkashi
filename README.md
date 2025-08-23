@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                                💫 About Me
 🔭 I’m currently working on MERN Stack Projects (React, Node.js, MongoDB, Express)<br>👯 I’m looking to collaborate on open-source web development projects<br>🤝 I’m looking for help with optimizing large-scale applications & database design<br>🌱 I’m currently learning Next.js & Cloud Deployment (AWS, Vercel)<br>💬 Ask me about vaScript, MERN Stack, Full Stack Development<br>⚡ Fun fact I turn ☕ coffee into clean & scalable code 🚀
 
 
