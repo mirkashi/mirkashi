@@ -1,5 +1,5 @@
 
-# 💫 About Me
+# 💫 About Me <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=300 height=340>
 🔭 I’m currently working on MERN Stack Projects (React, Node.js, MongoDB, Express)<br>👯 I’m looking to collaborate on open-source web development projects<br>🤝 I’m looking for help with optimizing large-scale applications & database design<br>🌱 I’m currently learning Next.js & Cloud Deployment (AWS, Vercel)<br>💬 Ask me about vaScript, MERN Stack, Full Stack Development<br>⚡ Fun fact I turn ☕ coffee into clean & scalable code 🚀
 
 
@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mirkashi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=240/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mirkashi&theme=codeSTACKr&hide_border=false)<img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=300 height=340><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mirkashi&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="right">
   
@@ -27,7 +27,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mirkashi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/0828a362-af19-4ce8-b79c-ad6af4a8798e" />
 
 
 
