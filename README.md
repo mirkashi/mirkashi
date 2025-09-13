@@ -22,5 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mirkashi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/0828a362-af19-4ce8-b79c-ad6af4a8798e" />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
