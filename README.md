@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="left" style="padding: 20px;">
+<div align="left">
 
 ### 🎯 Current Focus
 
@@ -156,7 +156,7 @@ const mirKashif = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux&theme=dark&perline=10" />
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,postman,&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postman&theme=dark&perline=8" />
 
 ### 🗄️ Database & Storage
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,redis&theme=dark&perline=8" />
@@ -168,7 +168,7 @@ const mirKashif = {
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,npm&theme=dark&perline=10" />
 
 ### 🎯 Other Technologies
-<img src="https://skillicons.dev/icons?i=cpp,unity,arduino,&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,unity,arduino&theme=dark&perline=8" />
 
 </div>
 
@@ -296,7 +296,7 @@ const mirKashif = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=mirkashi&icon=5&color=6)](https://visitcount.itsvg.in)
 
