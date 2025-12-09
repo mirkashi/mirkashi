@@ -12,7 +12,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif">
+
 
 ## 💫 About Me
 
