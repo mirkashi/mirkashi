@@ -1,179 +1,313 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mir%20Kashif&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Mir%20Kashif&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator&descSize=25&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FFE6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Crafting+Digital+Experiences+%F0%9F%8E%A8;Turning+Ideas+into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=mirkashi&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mirkashi?style=flat-square&color=00D9FF&labelColor=1a1b27&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00D9FF?style=flat-square&labelColor=1a1b27" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Lives-Pakistan-success?style=flat-square&labelColor=1a1b27&logo=google-maps" alt="Location"/>
   
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-## 💫 About Me
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔭 **Currently Working On**  
-Building scalable MERN Stack applications with modern architecture
+<div align="left">
 
-👯 **Looking to Collaborate**  
-Open-source web development projects & innovative solutions
+### 🎯 Current Focus
 
-🤝 **Seeking Help With**  
-Large-scale application optimization & advanced database design
+```javascript
+const mirKashif = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "TypeScript", "HTML/CSS", "PHP", "C++"],
+    askMeAbout: ["web dev", "full stack", "MERN", "UI/UX"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["TailwindCSS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            php: ["Core PHP"]
+        },
+        databases: ["MongoDB", "MySQL", "Firebase"],
+        misc: ["Git", "REST APIs", "Socket.IO"]
+    },
+    currentProject: "Building scalable MERN Stack applications",
+    funFact: "I turn ☕ coffee into clean & scalable code 🚀"
+};
+```
 
-🌱 **Currently Learning**  
-Next.js, TypeScript, Cloud Deployment (AWS, Vercel, DigitalOcean)
+### 🚀 What I'm Up To
 
-💬 **Ask Me About**  
-JavaScript, React, Node.js, MongoDB, Full Stack Development
+- 🔭 Building **scalable MERN Stack applications** with modern architecture
+- 🌱 Learning **Next.js, TypeScript, Cloud Deployment** (AWS, Vercel, DigitalOcean)
+- 👯 Open to collaborate on **open-source web development projects**
+- 🤝 Seeking help with **large-scale application optimization**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Full Stack Development**
+- 📫 Reach me at **mirkashi111@gmail.com**
 
-⚡ **Fun Fact**  
-I turn ☕ coffee into clean & scalable code 🚀
+</div>
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
 
-## 🏆 GitHub Trophies
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+  GitHub Trophies
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+</h2>
+
+<br/>
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🌐 Connect With Me
+<br/>
 
 <div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mrswebdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mir-kashif-28987428b)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29475966)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@looploard10)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LoopLoard10)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mirkashi10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirkashi111@gmail.com)
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+  Connect With Me
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://instagram.com/mrswebdev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/mir-kashif-28987428b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/29475966" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://tiktok.com/@looploard10" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://x.com/LoopLoard10" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+</a>
+<a href="https://codepen.io/mirkashi10" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+</a>
+<a href="mailto:mirkashi111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+**Open for collaborations on innovative projects!** 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
 
-## 💻 Tech Stack
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  Tech Stack & Tools
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<br/>
+
+<div align="center">
 
 ### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux&theme=dark&perline=10" />
 
 ### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postman&theme=dark&perline=8" />
 
 ### 🗄️ Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,redis&theme=dark&perline=8" />
 
-### ☁️ Cloud & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,gcp,cloudflare,docker,nginx&theme=dark&perline=8" />
 
 ### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,npm&theme=dark&perline=10" />
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+### 🎯 Other Technologies
+<img src="https://skillicons.dev/icons?i=cpp,unity,arduino&theme=dark&perline=8" />
 
-### 🎮 Other Technologies
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirkashi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph"/>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height="170"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mirkashi&theme=tokyonight&hide_border=false" width="49%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="languages graph"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+  GitHub Statistics
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+</h2>
 
-## 📈 Contribution Activity
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="35">
+  Contribution Activity
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="35">
+</h2>
+
+<br/>
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Contributor Stats" />
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🐍 Contribution Snake
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="40">
+  Contribution Snake
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="40">
+</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 📫 Let's Connect!
+<br/>
 
 <div align="center">
-  
-💼 **Open for collaborations on innovative projects**  
-📧 **Email:** [mirkashi111@gmail.com](mailto:mirkashi111@gmail.com)  
-🌐 **Portfolio:** Coming Soon!  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  Let's Connect & Collaborate!
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h2>
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="48" alt="Collaboration" />
+      <br/>
+      <b>💼 Open for Collaborations</b>
+      <br/>
+      <sub>Innovative web projects & open-source</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="48" alt="Email" />
+      <br/>
+      <b>📧 Email</b>
+      <br/>
+      <sub><a href="mailto:mirkashi111@gmail.com">mirkashi111@gmail.com</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e996-f7d7-4a0d-8fc9-37f4c2a5c0e7.png" width="48" alt="Portfolio" />
+      <br/>
+      <b>🌐 Portfolio</b>
+      <br/>
+      <sub>Coming Soon!</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=mirkashi&icon=2&color=6)](https://visitcount.itsvg.in)
-  
-  **⭐️ From [mirkashi](https://github.com/mirkashi) with 💖**
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=mirkashi&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+**Made with 💖 and lots of ☕ by [Mir Kashif](https://github.com/mirkashi)**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
