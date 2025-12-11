@@ -194,8 +194,13 @@ const mirKashif = {
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 <br/>
