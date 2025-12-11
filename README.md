@@ -84,7 +84,7 @@ const mirKashif = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 
 </div>
 
