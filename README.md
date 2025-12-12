@@ -25,7 +25,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32">
-  <span style="color: #00D9FF;">About Me</span>
+  About Me
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32">
 </h2>
 
@@ -84,7 +84,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
-  <span style="color: #FFD700;">GitHub Trophies</span>
+  GitHub Trophies
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
 </h2>
 
@@ -108,7 +108,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40">
-  <span style="color: #00D9FF;">Connect With Me</span>
+  Connect With Me
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40">
 </h2>
 
@@ -144,7 +144,7 @@ const mirKashif = {
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <strong style="font-size: 18px;">Open for collaborations on innovative projects!</strong>
+  <b>Open for collaborations on innovative projects!</b>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 </p>
 
@@ -158,7 +158,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
-  <span style="color: #00D9FF;">Tech Stack & Tools</span>
+  Tech Stack & Tools
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
 </h2>
 
@@ -239,7 +239,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" height="32">
-  <span style="color: #00D9FF;">GitHub Statistics</span>
+  GitHub Statistics
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" height="32">
 </h2>
 
@@ -286,7 +286,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="32" height="32">
-  <span style="color: #00D9FF;">Contribution Activity</span>
+  Contribution Activity
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="32" height="32">
 </h2>
 
@@ -310,7 +310,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="32" height="32">
-  <span style="color: #00D9FF;">Contribution Snake</span>
+  Contribution Snake
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="32" height="32">
 </h2>
 
@@ -332,7 +332,7 @@ const mirKashif = {
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" height="32">
-  <span style="color: #FFD700;">Let's Connect & Collaborate!</span>
+  Let's Connect & Collaborate!
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" height="32">
 </h2>
 
@@ -340,28 +340,28 @@ const mirKashif = {
 
 <div align="center">
 
-<table style="border: none;">
+<table>
   <tr>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60" alt="Collaboration" />
       <br/><br/>
-      <strong style="font-size: 16px;">💼 Open for Collaborations</strong>
+      <b>💼 Open for Collaborations</b>
       <br/>
       <sub>Innovative web projects & open-source contributions</sub>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="Email" />
       <br/><br/>
-      <strong style="font-size: 16px;">📧 Email Me</strong>
+      <b>📧 Email Me</b>
       <br/>
-      <sub><a href="mailto:mirkashi111@gmail.com" style="color: #00D9FF;">mirkashi111@gmail.com</a></sub>
+      <sub><a href="mailto:mirkashi111@gmail.com">mirkashi111@gmail.com</a></sub>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e996-f7d7-4a0d-8fc9-37f4c2a5c0e7.png" width="60" alt="Portfolio" />
       <br/><br/>
-      <strong style="font-size: 16px;">🌐 Portfolio</strong>
+      <b>🌐 Portfolio</b>
       <br/>
-      <sub><a href="https://looplord.netlify.app/" style="color: #00D9FF;">Visit My Website</a></sub>
+      <sub><a href="https://looplord.netlify.app/">Visit My Website</a></sub>
     </td>
   </tr>
 </table>
@@ -395,7 +395,7 @@ const mirKashif = {
 <br/>
 
 <p align="center">
-  <strong style="font-size: 16px;">Made with 💖 and lots of ☕ by <a href="https://looplord.netlify.app/" style="color: #00D9FF;">Mir Kashif</a></strong>
+  <b>Made with 💖 and lots of ☕ by <a href="https://looplord.netlify.app/">Mir Kashif</a></b>
 </p>
 
 <br/>
