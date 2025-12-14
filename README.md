@@ -58,7 +58,7 @@
 
     </td>
     <td width="45%" valign="top" align="center">
-      <img alt="Coding Animation" width="420" src="./assets/coding.gif">
+      <img alt="Animated illustration of a developer coding at a computer" width="420" src="./assets/coding.gif">
       <table>
         <tr>
           <td align="center">
@@ -77,6 +77,7 @@
           </td>
         </tr>
       </table>
+      <p><sub>Snapshot as of Dec 2024</sub></p>
     </td>
   </tr>
 </table>
