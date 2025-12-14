@@ -60,7 +60,16 @@
 
     </td>
     <td width="45%" valign="top" align="center">
-      <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
+      <table>
+        <tr>
+          <td align="center" width="50%">
+            <img alt="Developer coding animation" width="200" src="./assets/coding.gif">
+          </td>
+          <td align="center" width="50%">
+            <img alt="About section preview" width="200" src="./assets/about-preview.png">
+          </td>
+        </tr>
+      </table>
       <table>
         <caption>Professional availability and contact information</caption>
         <tr>
