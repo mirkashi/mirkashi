@@ -32,7 +32,7 @@
 <br/>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding Animation" width="420" src="./assets/coding.gif">
 </p>
 
 <div align="left">
@@ -66,10 +66,10 @@ const mirKashif = {
 
 ### 🚀 What I'm Up To
 
-- 🔭 Building **scalable MERN Stack applications** with modern architecture
-- 🌱 Learning **Next.js, TypeScript, Cloud Deployment** (AWS, Vercel, DigitalOcean)
-- 👯 Open to collaborate on **open-source web development projects**
-- 🤝 Seeking help with **large-scale application optimization**
+- 🔭 Building **real-time dashboards and MERN microservices** for production apps
+- 🌱 Deep-diving into **Next.js, TypeScript, and serverless deployments** (Vercel, AWS)
+- 👯 Open to collaborate on **open-source tooling and performance optimizations**
+- 🤝 Actively contributing through **PR reviews, issue triage, and documentation**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Full Stack Development**
 - 📫 Reach me at **mirkashi111@gmail.com**
 - ⚡ Fun fact: **I debug in my dreams!** 😴💭🐛
@@ -93,9 +93,9 @@ const mirKashif = {
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api/?username=mirkashi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api/?username=mirkashi&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-    <img src="https://github-profile-trophy.vercel.app/api/?username=mirkashi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=flat&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+    <img src="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
   </picture>
 
 </div>
@@ -272,9 +272,9 @@ const mirKashif = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=github-light&hide_border=true&custom_title=Contribution%20Graph" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=github-light&hide_border=true&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
   </picture>
 </div>
 
