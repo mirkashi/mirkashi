@@ -58,7 +58,7 @@
 
     </td>
     <td width="45%" valign="top" align="center">
-      <img alt="Animated illustration of a developer coding at a computer workstation" width="420" src="./assets/coding.gif">
+      <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
       <table>
         <tr>
           <td align="center">
@@ -73,7 +73,7 @@
             <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
           </td>
           <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Send email to Mir Kashif at mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Contact Mir Kashif via email">Email: mirkashi111@gmail.com</a></sub>
           </td>
         </tr>
       </table>
