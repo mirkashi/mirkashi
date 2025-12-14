@@ -40,13 +40,13 @@
       <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
 
       <p>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus Badge"/>
-        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Availability Badge"/>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus: Full Stack Craftsmanship badge"/>
+        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Availability: Open for Collaborations badge"/>
       </p>
 
       <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend Badge"/>
-        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend Badge"/>
+        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend technologies: React, Next.js, Tailwind badge"/>
+        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend technologies: Node, Express, MongoDB badge"/>
       </p>
 
       <ul>
@@ -58,7 +58,7 @@
 
     </td>
     <td width="45%" valign="top" align="center">
-      <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
+      <img alt="Animated illustration of a developer coding at a computer workstation" width="420" src="./assets/coding.gif">
       <table>
         <tr>
           <td align="center">
