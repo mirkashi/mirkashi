@@ -33,6 +33,8 @@
 
 <div align="center">
 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working at desk animation" width="360"/>
+
 <table>
   <tr>
     <td width="55%" valign="top" align="left">
