@@ -31,48 +31,56 @@
 
 <br/>
 
-<p align="center">
-  <img align="right" alt="Coding Animation" width="420" src="./assets/coding.gif">
-</p>
+<div align="center">
 
-<div align="left">
+<table>
+  <tr>
+    <td width="55%" valign="top" align="left">
+      
+      <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
 
-### 🎯 Current Focus
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship" aria-hidden="true"/>
+        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations" aria-hidden="true"/>
+      </p>
 
-```javascript
-const mirKashif = {
-    pronouns: "He/Him",
-    location: "Pakistan 🇵🇰",
-    code: ["JavaScript", "TypeScript", "HTML/CSS", "PHP", "C++"],
-    askMeAbout: ["web dev", "full stack", "MERN", "UI/UX", "tech"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["TailwindCSS", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Core PHP"]
-        },
-        databases: ["MongoDB", "MySQL", "Firebase", "Redis"],
-        devOps: ["Docker", "Nginx", "Vercel", "Netlify"],
-        tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"]
-    },
-    architecture: ["REST APIs", "Microservices", "Responsive Design"],
-    currentProject: "Building scalable MERN Stack applications 🚀",
-    funFact: "I turn coffee ☕ into clean, scalable code! 💻✨"
-};
-```
+      <p>
+        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind" aria-hidden="true"/>
+        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB" aria-hidden="true"/>
+      </p>
 
-### 🚀 What I'm Up To
+      <ul>
+        <li>🚀 Designing immersive dashboards, SaaS experiences, and high-impact microservices.</li>
+        <li>🧠 Championing clean architecture, DX excellence, and performance-first builds.</li>
+        <li>🤝 Partnering on open-source tooling, deep code reviews, and issue triage.</li>
+        <li>🎨 Obsessed with polished UI/UX that tells a story.</li>
+      </ul>
 
-- 🔭 Building **real-time dashboards and MERN microservices** for production apps
-- 🌱 Deep-diving into **Next.js, TypeScript, and serverless deployments** (Vercel, AWS)
-- 👯 Open to collaborate on **open-source tooling and performance optimizations**
-- 🤝 Actively contributing through **PR reviews, issue triage, and documentation**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Full Stack Development**
-- 📫 Reach me at **mirkashi111@gmail.com**
-- ⚡ Fun fact: **I debug in my dreams!** 😴💭🐛
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
+      <table>
+        <caption>Professional availability and contact information</caption>
+        <tr>
+          <td align="center">
+            <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
+          </td>
+          <td align="center">
+            <b>🕒 Quick Responses</b><br/><sub>Typically within 24h</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
+          </td>
+          <td align="center">
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
 
