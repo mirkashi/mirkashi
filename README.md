@@ -60,7 +60,7 @@
     <td width="45%" valign="top" align="center">
       <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
       <table>
-        <caption>Quick Stats - Overview of availability and contact information</caption>
+        <caption>Quick Stats - Portfolio, response time, remote readiness, contact</caption>
         <tr>
           <td align="center">
             <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
@@ -74,7 +74,7 @@
             <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
           </td>
           <td align="center">
-            <b>📫 Say Hi</b><br/><sub>Email: mirkashi111 [at] gmail [dot] com</sub>
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
           </td>
         </tr>
       </table>
