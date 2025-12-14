@@ -40,13 +40,13 @@
       <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
 
       <p>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship"/>
-        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations"/>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship" aria-hidden="true"/>
+        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations" aria-hidden="true"/>
       </p>
 
       <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind"/>
-        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB"/>
+        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind" aria-hidden="true"/>
+        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB" aria-hidden="true"/>
       </p>
 
       <ul>
@@ -60,6 +60,7 @@
     <td width="45%" valign="top" align="center">
       <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
       <table>
+        <caption><b>Quick Stats</b></caption>
         <tr>
           <td align="center">
             <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
@@ -73,7 +74,7 @@
             <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
           </td>
           <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Contact Mir Kashif via email">Email: mirkashi111@gmail.com</a></sub>
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111%40gmail.com" title="Contact Mir Kashif via email">Email: mirkashi111 [at] gmail [dot] com</a></sub>
           </td>
         </tr>
       </table>
