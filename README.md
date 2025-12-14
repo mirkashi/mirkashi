@@ -58,14 +58,14 @@
 
     </td>
     <td width="45%" valign="top" align="center">
-      <img alt="Animated illustration of a developer coding at a computer" width="420" src="./assets/coding.gif">
+      <img alt="Animated developer working on code across multiple screens" width="420" src="./assets/coding.gif">
       <table>
         <tr>
           <td align="center">
-            <b>🚀 50+ Projects</b><br/><sub>Production & OSS deliveries</sub>
+            <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
           </td>
           <td align="center">
-            <b>🕒 24h Response</b><br/><sub>Swift kickoff & follow-ups</sub>
+            <b>🕒 Quick Responses</b><br/><sub>Typically within 24h</sub>
           </td>
         </tr>
         <tr>
@@ -77,7 +77,7 @@
           </td>
         </tr>
       </table>
-      <p><sub>Snapshot as of Dec 2024</sub></p>
+      <p><sub>Snapshot: current status</sub></p>
     </td>
   </tr>
 </table>
