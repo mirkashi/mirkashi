@@ -60,7 +60,7 @@
     <td width="45%" valign="top" align="center">
       <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
       <table>
-        <caption>Quick Stats - Portfolio, response time, remote readiness, contact</caption>
+        <caption>Quick statistics about portfolio, response time, remote availability, and contact information</caption>
         <tr>
           <td align="center">
             <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
@@ -78,7 +78,7 @@
           </td>
         </tr>
       </table>
-      <p><sub>Snapshot: current status</sub></p>
+      <p><sub>Snapshot of current availability and response expectations</sub></p>
     </td>
   </tr>
 </table>
