@@ -40,13 +40,13 @@
       <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
 
       <p>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus: Full Stack Craftsmanship badge"/>
-        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Availability: Open for Collaborations badge"/>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship"/>
+        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations"/>
       </p>
 
       <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend technologies: React, Next.js, Tailwind badge"/>
-        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend technologies: Node, Express, MongoDB badge"/>
+        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind"/>
+        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB"/>
       </p>
 
       <ul>
@@ -73,7 +73,7 @@
             <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
           </td>
           <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Email Mir Kashif">Email: mirkashi111@gmail.com</a></sub>
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Send email to Mir Kashif at mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
           </td>
         </tr>
       </table>
