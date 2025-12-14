@@ -74,7 +74,7 @@
             <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
           </td>
           <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111%40gmail.com" title="Contact Mir Kashif via email">Email: mirkashi111 [at] gmail [dot] com</a></sub>
+            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com" title="Contact Mir Kashif via email">Email: mirkashi111 [at] gmail [dot] com</a></sub>
           </td>
         </tr>
       </table>
