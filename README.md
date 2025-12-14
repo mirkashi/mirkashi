@@ -60,7 +60,7 @@
     <td width="45%" valign="top" align="center">
       <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
       <table>
-        <caption>Professional availability and contact statistics</caption>
+        <caption>Professional availability and contact information</caption>
         <tr>
           <td align="center">
             <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
