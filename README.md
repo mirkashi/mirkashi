@@ -35,49 +35,41 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top" align="left">
-      
-      <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship" aria-hidden="true"/>
-        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations" aria-hidden="true"/>
-      </p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind" aria-hidden="true"/>
-        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB" aria-hidden="true"/>
-      </p>
-
-      <ul>
-        <li>🚀 Designing immersive dashboards, SaaS experiences, and high-impact microservices.</li>
-        <li>🧠 Championing clean architecture, DX excellence, and performance-first builds.</li>
-        <li>🤝 Partnering on open-source tooling, deep code reviews, and issue triage.</li>
-        <li>🎨 Obsessed with polished UI/UX that tells a story.</li>
-      </ul>
-
+    <td width="55%" valign="middle" align="left" style="height:320px;">
+      <div style="display:flex; flex-direction:column; justify-content:center; gap:12px; min-height:320px;">
+        <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer who loves turning complex ideas into clean, performant web experiences.</p>
+        <p>I blend sleek frontends with resilient backends, keeping accessibility, speed, and scalability front and center on every build.</p>
+        <ul>
+          <li>⚡ Shipping production-ready MERN products with modern patterns.</li>
+          <li>🎯 Obsessing over DX, performance budgets, and polished UI details.</li>
+          <li>🤝 Collaborative partner for open-source and ambitious product teams.</li>
+        </ul>
+      </div>
     </td>
-    <td width="45%" valign="top" align="center">
-      <img alt="Developer coding animation" width="420" src="./assets/coding.gif">
-      <table>
-        <caption>Professional availability and contact information</caption>
-        <tr>
-          <td align="center">
-            <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
-          </td>
-          <td align="center">
-            <b>🕒 Quick Responses</b><br/><sub>Typically within 24h</sub>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
-          </td>
-          <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
-          </td>
-        </tr>
-      </table>
+    <td width="45%" valign="middle" align="center" style="height:320px;">
+      <img alt="Developer coding animation" width="420" height="320" src="./assets/coding.gif" style="border-radius:12px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <caption>Professional availability and contact information</caption>
+  <tr>
+    <td align="center">
+      <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
+    </td>
+    <td align="center">
+      <b>🕒 Quick Responses</b><br/><sub>Typically within 24h</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
+    </td>
+    <td align="center">
+      <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
     </td>
   </tr>
 </table>
