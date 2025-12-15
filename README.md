@@ -33,65 +33,54 @@
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working at desk animation" width="360"/>
+  <p><strong>Highlights (static for reduced motion):</strong> Designing motion-rich experiences &bull; Shipping scalable full stack products &bull; Elevating teams with clean architecture & DX</p>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/about-preview.png" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Designing+motion-rich+experiences;Shipping+scalable+full+stack+products;Elevating+teams+with+clean+architecture+%26+DX" alt="Animated typing banner: Designing motion-rich experiences; Shipping scalable full stack products; Elevating teams with clean architecture & DX." />
+  </picture>
 
-<table>
-  <tr>
-    <td width="55%" valign="top" align="left">
-      
-      <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting fast, beautiful, and scalable web experiences from Pakistan 🇵🇰.</p>
+  <table>
+    <tr>
+      <td width="42%" align="center" valign="top">
+        <img src="./assets/about-section-parallel.png" alt="Screenshot of portfolio website about section layout" width="360"/>
+        <br/><br/>
+        <img src="./assets/coding.gif" alt="Developer coding animation" width="250"/>
+        <p>
+          <img src="https://img.shields.io/badge/Availability-Open%20for%20collaborations-success?style=for-the-badge&labelColor=0D1117" alt="Availability badge" aria-hidden="true"/>
+          <img src="https://img.shields.io/badge/Remote-EMEA%20friendly%20hours-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Remote badge" aria-hidden="true"/>
+          <img src="https://img.shields.io/badge/Response-%3C24h-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Response time badge" aria-hidden="true"/>
+        </p>
+      </td>
+      <td width="58%" valign="top" align="left">
+        <p><b>Hey, I'm Mir Kashif —</b> a product-minded full stack developer crafting motion-forward, performant, and production-ready web experiences from Pakistan 🇵🇰.</p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Craftsmanship-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus on Full Stack Craftsmanship" aria-hidden="true"/>
-        <img src="https://img.shields.io/badge/Availability-Open%20for%20Collaborations-success?style=for-the-badge&labelColor=1a1b27" alt="Currently available for collaborations" aria-hidden="true"/>
-      </p>
+        <p>
+          <img src="https://img.shields.io/badge/Interaction%20Design-Motion%20Systems-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Interaction & Motion systems" aria-hidden="true"/>
+          <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Node%20%7C%20Mongo-1DB954?style=for-the-badge&labelColor=0D1117" alt="Stack badge" aria-hidden="true"/>
+        </p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Frontend: React, Next.js, Tailwind" aria-hidden="true"/>
-        <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20MongoDB-1DB954?style=for-the-badge&labelColor=0D1117" alt="Backend: Node, Express, MongoDB" aria-hidden="true"/>
-      </p>
+        <ul>
+          <li>🎨 Product & Motion: Designing immersive dashboards and growth experiments with polished, performant micro-interactions.</li>
+          <li>🧠 Architecture & DX: Championing clean architecture, DX excellence, and pragmatic delivery with teams.</li>
+          <li>🤝 Collaboration: Partnering on open-source tooling, deep code reviews, and issue triage.</li>
+        </ul>
 
-      <ul>
-        <li>🚀 Designing immersive dashboards, SaaS experiences, and high-impact microservices.</li>
-        <li>🧠 Championing clean architecture, DX excellence, and performance-first builds.</li>
-        <li>🤝 Partnering on open-source tooling, deep code reviews, and issue triage.</li>
-        <li>🎨 Obsessed with polished UI/UX that tells a story.</li>
-      </ul>
+        <p>
+          <a href="https://looplord.netlify.app/">
+            <img src="https://img.shields.io/badge/Portfolio-Live-ff7cee?style=for-the-badge&labelColor=1a1b27&logo=netlify&logoColor=white" alt="Visit live portfolio website"/>
+          </a>
+          <a href="mailto:mirkashi111@gmail.com">
+            <img src="https://img.shields.io/badge/Email-Let%27s%20talk-00D9FF?style=for-the-badge&labelColor=0D1117&logo=gmail" alt="Email badge"/>
+          </a>
+          <a href="https://linkedin.com/in/mir-kashif-28987428b">
+            <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin" alt="LinkedIn badge"/>
+          </a>
+        </p>
 
-    </td>
-    <td width="45%" valign="top" align="center">
-      <table>
-        <tr>
-          <td align="center" width="50%">
-            <img alt="Developer coding animation" width="200" src="./assets/coding.gif">
-          </td>
-          <td align="center" width="50%">
-            <img alt="About section preview" width="200" src="./assets/about-preview.png">
-          </td>
-        </tr>
-      </table>
-      <table>
-        <caption>Professional availability and contact information</caption>
-        <tr>
-          <td align="center">
-            <b>🚀 Extensive Portfolio</b><br/><sub>Production & OSS deliveries</sub>
-          </td>
-          <td align="center">
-            <b>🕒 Quick Responses</b><br/><sub>Typically within 24h</sub>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <b>🌐 Remote Ready</b><br/><sub>EMEA friendly hours</sub>
-          </td>
-          <td align="center">
-            <b>📫 Say Hi</b><br/><sub><a href="mailto:mirkashi111@gmail.com">Email: mirkashi111@gmail.com</a></sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+        <p><strong>Focus areas:</strong> Crafting animated design systems for modern products &bull; Owning end-to-end MERN delivery with DX guardrails &bull; Mentoring teams to ship fast without breaking quality</p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
