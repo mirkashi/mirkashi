@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mir%20Kashif&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Mir%20Kashif&fontSize=95&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator%20%7C%20Problem%20Solver&descSize=22&descAlignY=56&stroke=00D9FF&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Crafting+Beautiful+Digital+Experiences+%F0%9F%8E%A8;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Crafting+Beautiful+Digital+Experiences+%F0%9F%8E%A8;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9C%A8;Innovation+Through+Technology+%F0%9F%94%A5)](https://git.io/typing-svg)
   
   <br/>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/mirkashi?style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github&label=FOLLOWERS" alt="Followers"/>
-    <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
-    <img src="https://img.shields.io/badge/LOCATION-Pakistan-success?style=for-the-badge&labelColor=1a1b27&logo=google-maps" alt="Location"/>
+    <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/mirkashi?style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github&label=FOLLOWERS&logoColor=00D9FF" alt="Followers"/>
+    <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1a1b27&logo=react&logoColor=00D9FF" alt="Focus"/>
+    <img src="https://img.shields.io/badge/LOCATION-Pakistan-success?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt="Location"/>
   </p>
   
 </div>
@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -47,7 +47,7 @@
       </div>
     </td>
     <td width="45%" valign="middle" align="center" style="height:320px;">
-      <img alt="Developer coding animation" width="420" height="320" src="./assets/coding.gif" style="border-radius:12px; object-fit:cover;">
+      <img alt="Developer coding animation" width="450" height="320" src="./assets/coding.gif" style="border-radius:16px; object-fit:cover; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -93,9 +93,9 @@
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=flat&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-    <img src="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=flat&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </picture>
 
 </div>
@@ -103,7 +103,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -118,25 +118,25 @@
 
 <p align="center">
   <a href="https://instagram.com/mrswebdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=23272A" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/mir-kashif-28987428b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23272A" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/29475966" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=23272A" alt="Stack Overflow" />
   </a>
   <a href="https://tiktok.com/@looploard10" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=23272A" alt="TikTok" />
   </a>
   <a href="https://x.com/LoopLoard10" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=23272A" alt="X" />
   </a>
   <a href="https://codepen.io/mirkashi10" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=23272A" alt="Codepen" />
   </a>
   <a href="mailto:mirkashi111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23272A" alt="Email" />
   </a>
 </p>
 
@@ -153,7 +153,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -234,7 +234,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -247,24 +247,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=10&ring_color=00D9FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=10&ring_color=00D9FF" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mirkashi&theme=default&hide_border=true" />
-    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=default&hide_border=true&layout=compact&langs_count=8&card_width=800" />
-    <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=800" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10&stroke=00D9FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mirkashi&theme=default&hide_border=true&border_radius=10" />
+    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10&stroke=00D9FF" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -272,16 +262,26 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=github-light&hide_border=true&area=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=850&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=default&hide_border=true&layout=compact&langs_count=8&card_width=850&border_radius=10" />
+    <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&layout=compact&langs_count=8&card_width=850&border_radius=10" alt="Top Languages" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D9FF&point=00D9FF&line=00D9FF&bg_color=0D1117&radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&radius=10" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D9FF&point=00D9FF&line=00D9FF&bg_color=0D1117&radius=10" alt="Activity Graph" />
   </picture>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -295,9 +295,9 @@
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Contributor Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true&border_radius=10" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mirkashi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&border_radius=10" alt="Contributor Stats" />
 </picture>
 
 </div>
@@ -305,7 +305,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -327,7 +327,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
 </p>
 
 <h2 align="center">
@@ -375,7 +375,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 ---
@@ -383,7 +383,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="4"/>
 </p>
 
 <p align="center">
