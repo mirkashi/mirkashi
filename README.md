@@ -74,6 +74,39 @@
   </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="48" alt="Projects" />
+        <br/><br/>
+        <h3>50+</h3>
+        <sub>Projects Delivered</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="48" alt="Code" />
+        <br/><br/>
+        <h3>100K+</h3>
+        <sub>Lines of Code</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e996-f7d7-4a0d-8fc9-37f4c2a5c0e7.png" width="48" alt="Learning" />
+        <br/><br/>
+        <h3>∞</h3>
+        <sub>Continuous Learning</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="48" alt="Coffee" />
+        <br/><br/>
+        <h3>☕</h3>
+        <sub>Coffee Powered</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 <br clear="both"/>
@@ -157,6 +190,33 @@
 </p>
 
 <h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32">
+  Currently Exploring
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32">
+</h2>
+
+<br/>
+
+<div align="center">
+  
+```yaml
+🚀 Advanced Next.js 14 Features & App Router
+🔥 TypeScript Best Practices & Advanced Patterns
+⚡ Performance Optimization & Web Vitals
+🎨 Modern CSS Architecture with Tailwind CSS
+🔐 Authentication & Security Best Practices
+☁️ Cloud Architecture & Serverless Functions
+```
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+</p>
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
   Tech Stack & Tools
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
@@ -172,7 +232,7 @@
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux&theme=dark&perline=10" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux&theme=dark&perline=10" alt="Frontend Skills" />
 </p>
 
 </td>
@@ -182,7 +242,7 @@
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,postman&theme=dark&perline=8" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,postman&theme=dark&perline=8" alt="Backend Skills" />
 </p>
 
 </td>
@@ -192,7 +252,7 @@
 
 ### 🗄️ Database & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,redis&theme=dark&perline=8" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,redis&theme=dark&perline=8" alt="Database Skills" />
 </p>
 
 </td>
@@ -202,7 +262,7 @@
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,gcp,cloudflare,docker,nginx&theme=dark&perline=8" alt="Cloud Skills"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,gcp,cloudflare,docker,nginx&theme=dark&perline=8" alt="Cloud Skills" />
 </p>
 
 </td>
@@ -212,7 +272,7 @@
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,npm&theme=dark&perline=10" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,npm&theme=dark&perline=10" alt="Tools" />
 </p>
 
 </td>
@@ -222,7 +282,7 @@
 
 ### 🎯 Other Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unity,arduino&theme=dark&perline=8" alt="Other Skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,unity,arduino&theme=dark&perline=8" alt="Other Skills" />
 </p>
 
 </td>
@@ -276,6 +336,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&radius=10" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=00D9FF&point=00D9FF&line=00D9FF&bg_color=0D1117&radius=10" alt="Activity Graph" />
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mirkashi&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <br/>
@@ -368,7 +434,13 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Animation" />
+</p>
 
 </div>
 
