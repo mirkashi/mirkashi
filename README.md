@@ -126,6 +126,11 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. ❌ Reopened PR [#13](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+2. ❌ Closed PR [#13](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+3. 🔒 Closed issue [#2](https://github.com/mirkashi/LMS/issues/2) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+4. ❗ Opened issue [#2](https://github.com/mirkashi/LMS/issues/2) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+5.  Assigned issue [#2](https://github.com/mirkashi/LMS/issues/2) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/mirkashi"><img alt="mirkashi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" width="100%"/></a>
