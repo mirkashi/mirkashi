@@ -116,6 +116,29 @@
 </p>
 
 <h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" height="32">
+  Recent GitHub Activity
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" height="32">
+</h2>
+
+<br/>
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<a href="https://github.com/mirkashi"><img alt="mirkashi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity" width="100%"/></a>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+</p>
+
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
   GitHub Trophies
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
@@ -126,9 +149,9 @@
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=flat&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=false&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=flat&no-frame=false&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+    <img src="https://github-profile-trophy.vercel.app/api?username=mirkashi&theme=tokyonight&no-frame=false&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies" />
   </picture>
 
 </div>
