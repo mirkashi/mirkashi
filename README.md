@@ -126,11 +126,11 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](undefined) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-2. 💪 Opened PR [#3](undefined) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-3. ❌ Merged PR [#19](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-4. 💪 Opened PR [#19](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-5. ❌ Reopened PR [#13](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+1. 🔒 Closed issue [#1](https://github.com/mirkashi/Paksky-Wings/issues/1) in [mirkashi/Paksky-Wings](https://github.com/mirkashi/Paksky-Wings)
+2. ❌ Closed PR [#3](undefined) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+3. 💪 Opened PR [#3](undefined) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+4. ❌ Merged PR [#19](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+5. 💪 Opened PR [#19](undefined) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
 <!--END_SECTION:activity-->
 
 </div>
