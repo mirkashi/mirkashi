@@ -14,8 +14,7 @@
   <br/>
   
   <!-- Main New Year Banner with Fireworks -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-    <table align="center" border="0">
+  <table align="center" border="0">
       <tr>
         <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fireworks.png" width="100" alt="Fireworks" />
@@ -28,7 +27,6 @@
         </td>
       </tr>
     </table>
-  </div>
   
   <br/>
   
@@ -52,9 +50,9 @@
   
   <!-- Fireworks and Celebration GIFs -->
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" />
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" />
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Celebration" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Divider" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="280" alt="Animation" />
   </p>
   
   <br/>
