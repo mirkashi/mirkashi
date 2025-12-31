@@ -2,6 +2,70 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Mir%20Kashif&fontSize=95&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator%20%7C%20Problem%20Solver&descSize=22&descAlignY=56&stroke=00D9FF&strokeWidth=2" width="100%"/>
 </div>
 
+<!-- 🎆 NEW YEAR 2026 CELEBRATION 🎆 -->
+<div align="center">
+  <br/>
+  
+  <!-- Fireworks Animation Top -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="3"/>
+  </p>
+  
+  <br/>
+  
+  <!-- Main New Year Banner with Fireworks -->
+  <table align="center" border="0">
+      <tr>
+        <td align="center" width="120">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fireworks.png" width="100" alt="Fireworks" />
+        </td>
+        <td align="center" width="800">
+          <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=50&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=%F0%9F%8E%86+HAPPY+NEW+YEAR+2026!+%F0%9F%8E%86;%E2%9C%A8+MIR+KASHIF+%E2%9C%A8;%F0%9F%8E%89+Welcome+to+an+Amazing+Year!+%F0%9F%8E%89" alt="New Year 2026 Animation" />
+        </td>
+        <td align="center" width="120">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fireworks.png" width="100" alt="Fireworks" />
+        </td>
+      </tr>
+    </table>
+  
+  <br/>
+  
+  <!-- Celebratory Elements -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="50" alt="Party Popper" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="50" alt="Confetti Ball" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="50" alt="Sparkles" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="50" alt="Star Struck" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="50" alt="Sparkles" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Confetti%20Ball.png" width="50" alt="Confetti Ball" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="50" alt="Party Popper" />
+  </p>
+  
+  <!-- New Year Message with Gradient -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%8E%87+Cheers+to+New+Beginnings%2C+Fresh+Code%2C+%26+Endless+Possibilities!+%F0%9F%8E%87;%F0%9F%9A%80+May+2026+bring+breakthrough+innovations+%26+epic+commits!+%F0%9F%9A%80" alt="New Year Message" />
+  </p>
+  
+  <br/>
+  
+  <!-- Fireworks and Celebration GIFs -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Celebration" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Divider" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="280" alt="Animation" />
+  </p>
+  
+  <br/>
+  
+  <!-- Bottom Separator -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="3"/>
+  </p>
+  
+  <br/>
+</div>
+<!-- 🎆 END OF NEW YEAR 2026 CELEBRATION 🎆 -->
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Crafting+Beautiful+Digital+Experiences+%F0%9F%8E%A8;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9C%A8;Innovation+Through+Technology+%F0%9F%94%A5)](https://git.io/typing-svg)
