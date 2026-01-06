@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/mirkashi?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&label=FOLLOWERS&logoColor=00D9FF" alt="Followers"/>
     <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117&logo=react&logoColor=00D9FF" alt="Focus"/>
-    <img src="https://img.shields.io/badge/LOCATION-Pakistan-00D9FF?style=for-the-badge&labelColor=0D1117&logo=google-maps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/LOCATION-Pakistan-success?style=for-the-badge&labelColor=0D1117&logo=google-maps&logoColor=white" alt="Location"/>
   </p>
   
 </div>
