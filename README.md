@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=320&section=header&text=Mir%20Kashif&fontSize=95&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator%20%7C%20Problem%20Solver&descSize=22&descAlignY=56&stroke=00D9FF&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Mir%20Kashif&fontSize=100&fontAlignY=42&animation=fadeIn&fontColor=gradient&desc=Full%20Stack%20Developer%20%7C%20Creative%20Innovator%20%7C%20Problem%20Solver&descSize=24&descAlignY=60&stroke=00D9FF&strokeWidth=3" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Solutions+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Crafting+Beautiful+Digital+Experiences+%F0%9F%8E%A8;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F%E2%9C%A8;Innovation+Through+Technology+%F0%9F%94%A5)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=100&lines=🚀+Full+Stack+Developer+%26+Tech+Enthusiast;⚡+Building+Next-Gen+Web+Applications;🎨+Designing+Seamless+User+Experiences;💡+Transforming+Ideas+into+Reality;🌟+Open+Source+%26+Innovation+Advocate;✨+Coding+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
   
   <br/>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/mirkashi?style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github&label=FOLLOWERS&logoColor=00D9FF" alt="Followers"/>
-    <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1a1b27&logo=react&logoColor=00D9FF" alt="Focus"/>
-    <img src="https://img.shields.io/badge/LOCATION-Pakistan-success?style=for-the-badge&labelColor=1a1b27&logo=google-maps&logoColor=white" alt="Location"/>
+    <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/mirkashi?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&label=FOLLOWERS&logoColor=00D9FF" alt="Followers"/>
+    <img src="https://img.shields.io/badge/FOCUS-Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117&logo=react&logoColor=00D9FF" alt="Focus"/>
+    <img src="https://img.shields.io/badge/LOCATION-Pakistan-00D9FF?style=for-the-badge&labelColor=0D1117&logo=google-maps&logoColor=white" alt="Location"/>
   </p>
   
 </div>
@@ -24,9 +24,9 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="40" height="40">
   About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -112,13 +112,13 @@
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="40" height="40">
   Recent GitHub Activity
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -138,13 +138,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="40" height="40">
   GitHub Trophies
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -162,13 +162,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="40" height="40">
   Connect With Me
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -177,25 +177,25 @@
 
 <p align="center">
   <a href="https://instagram.com/mrswebdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=23272A" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/mir-kashif-28987428b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23272A" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/29475966" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=23272A" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow" />
   </a>
   <a href="https://tiktok.com/@looploard10" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=23272A" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=0D1117" alt="TikTok" />
   </a>
   <a href="https://x.com/LoopLoard10" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=23272A" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0D1117" alt="X" />
   </a>
   <a href="https://codepen.io/mirkashi10" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=23272A" alt="Codepen" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0D1117" alt="Codepen" />
   </a>
   <a href="mailto:mirkashi111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23272A" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
 </p>
 
@@ -212,13 +212,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" height="40">
   Currently Exploring
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -239,13 +239,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" height="40">
   Tech Stack & Tools
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -320,13 +320,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40">
   GitHub Statistics
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -373,13 +373,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40">
   Contribution Activity
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ2MTZkNzQ5ZjQyZGQ2YzM5NGJhYjc5MWU0ZTYzNzY5YjY5MmVmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ObNTw8Uz3alVu/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -397,13 +397,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" height="40">
   Contribution Snake
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBmZjQ3OGQ5ZjQyMGQ5YjY5OTY5MjQ5MjU1ZjZlMzEyZjM3NjAwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/dWesBcTLavkZuG35MI/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -419,13 +419,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" height="5"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40">
   Let's Connect & Collaborate!
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40">
 </h2>
 
 <br/>
@@ -465,7 +465,7 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+👋+Let's+connect!;Building+amazing+things+together!+🚀;Always+learning%2C+always+coding!+💻;Innovation+%2B+Passion+%3D+Success!+✨" alt="Footer Animation" />
 </p>
 
 </div>
@@ -473,7 +473,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn&fontColor=gradient" width="100%"/>
 </p>
 
 ---
