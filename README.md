@@ -481,12 +481,12 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="4"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mirkashi&icon=5&color=6" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=mirkashi&icon=5&color=9" alt="Visitor Count" />
   </a>
 </p>
 
