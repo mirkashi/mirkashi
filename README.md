@@ -295,6 +295,97 @@
 </p>
 
 <h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" height="35">
+  Featured Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" height="35">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="35" />
+</h2>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 [Portfolio Website](https://looplord.netlify.app/)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> **Modern, responsive personal portfolio**  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Built with React & Tailwind CSS  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Smooth animations & transitions  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Performance optimized  
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [E-Commerce Platform](https://github.com/mirkashi)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> **Full-stack MERN application**  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Payment gateway integration  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Admin dashboard & analytics  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Real-time inventory management  
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [Real-Time Chat App](https://github.com/mirkashi)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> **WebSocket-based messaging**  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Group chats & private messages  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> File sharing & emoji support  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> End-to-end encryption  
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Task Management System](https://github.com/mirkashi)
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> **Kanban-style project tracker**  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Drag & drop functionality  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Team collaboration features  
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d3e-8e78-4711-8a40-3c5e8b3e0c7b.png" width="20" alt="bullet"/> Progress tracking & reports  
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/mirkashi?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=282c34" alt="View All Projects"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
+
+<h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="35" height="35">
   Tech Stack & Tools
@@ -368,6 +459,143 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35">
+  Code Showcase
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
+</h2>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+**⚡ Optimized React Hook**
+```javascript
+import { useState, useCallback } from 'react';
+
+const useToggle = (initialValue = false) => {
+  const [value, setValue] = useState(initialValue);
+  
+  const toggle = useCallback(() => {
+    setValue(v => !v);
+  }, []);
+  
+  return [value, toggle];
+};
+
+// Usage: Clean & performant! 🚀
+const [isOpen, toggleOpen] = useToggle();
+```
+
+</td>
+<td width="50%">
+
+**🎨 Modern TypeScript Pattern**
+```typescript
+interface User {
+  id: string;
+  name: string;
+  email: string;
+}
+
+type ApiResponse<T> = {
+  data: T;
+  status: 'success' | 'error';
+  message?: string;
+};
+
+// Type-safe API call
+const getUser = async (
+  id: string
+): Promise<ApiResponse<User>> => {
+  // Implementation
+};
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔐 Secure Authentication**
+```javascript
+// JWT-based auth middleware
+const authMiddleware = async (req, res, next) => {
+  const token = req.headers.authorization
+    ?.split(' ')[1];
+  
+  if (!token) {
+    return res.status(401).json({ 
+      error: 'Unauthorized' 
+    });
+  }
+  
+  try {
+    const decoded = jwt.verify(token, SECRET);
+    req.user = decoded;
+    next();
+  } catch (err) {
+    res.status(403).json({ 
+      error: 'Invalid token' 
+    });
+  }
+};
+```
+
+</td>
+<td width="50%">
+
+**⚙️ Efficient Database Query**
+```javascript
+// MongoDB aggregation pipeline
+const getUserStats = async (userId) => {
+  return await User.aggregate([
+    { $match: { _id: userId } },
+    { $lookup: {
+        from: 'posts',
+        localField: '_id',
+        foreignField: 'author',
+        as: 'posts'
+      }
+    },
+    { $project: {
+        name: 1,
+        postCount: { $size: '$posts' },
+        avgLikes: { $avg: '$posts.likes' }
+      }
+    }
+  ]);
+};
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</p>
+
+<p align="center">
+  <b>💡 Writing clean, maintainable, and performant code every day!</b>
+</p>
 
 </div>
 
