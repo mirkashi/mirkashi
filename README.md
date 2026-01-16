@@ -163,10 +163,10 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/mirkashi/mirkashi/pull/22) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-2. 💪 Opened PR [#22](https://github.com/mirkashi/mirkashi/pull/22) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-3. 🔒 Closed issue [#1](https://github.com/mirkashi/Paksky-Wings/issues/1) in [mirkashi/Paksky-Wings](https://github.com/mirkashi/Paksky-Wings)
-4. ❌ Closed PR [#3](https://github.com/mirkashi/LMS/pull/3) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+1. 🗣 Commented on [#2](https://github.com/mirkashi/Blog-web/pull/2#issuecomment-3756721217) in [mirkashi/Blog-web](https://github.com/mirkashi/Blog-web)
+2. 🎉 Merged PR [#22](https://github.com/mirkashi/mirkashi/pull/22) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+3. 💪 Opened PR [#22](https://github.com/mirkashi/mirkashi/pull/22) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+4. 🔒 Closed issue [#1](https://github.com/mirkashi/Paksky-Wings/issues/1) in [mirkashi/Paksky-Wings](https://github.com/mirkashi/Paksky-Wings)
 5. 💪 Opened PR [#3](https://github.com/mirkashi/LMS/pull/3) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 <!--END_SECTION:activity-->
 
