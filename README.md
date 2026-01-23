@@ -163,8 +163,8 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/mirkashi/LMS/pull/6) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-2. 🗣 Commented on [#2](https://github.com/mirkashi/Blog-web/pull/2#issuecomment-3756721217) in [mirkashi/Blog-web](https://github.com/mirkashi/Blog-web)
+1. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+2. ❌ Closed PR [#6](https://github.com/mirkashi/LMS/pull/6) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 3. 💪 Opened PR [#22](https://github.com/mirkashi/mirkashi/pull/22) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
 4. 🔒 Closed issue [#1](https://github.com/mirkashi/Paksky-Wings/issues/1) in [mirkashi/Paksky-Wings](https://github.com/mirkashi/Paksky-Wings)
 5. 💪 Opened PR [#3](https://github.com/mirkashi/LMS/pull/3) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
