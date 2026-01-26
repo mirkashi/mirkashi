@@ -163,10 +163,10 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-2. ℹ️ Reopened PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+1. 🎉 Merged PR [#5](https://github.com/mirkashi/blog/pull/5) in [mirkashi/blog](https://github.com/mirkashi/blog)
+2. 💪 Opened PR [#5](https://github.com/mirkashi/blog/pull/5) in [mirkashi/blog](https://github.com/mirkashi/blog)
 3. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-4. ❌ Closed PR [#6](https://github.com/mirkashi/LMS/pull/6) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+4. ℹ️ Reopened PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 5. 💪 Opened PR [#3](https://github.com/mirkashi/LMS/pull/3) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 <!--END_SECTION:activity-->
 
