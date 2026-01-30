@@ -163,11 +163,11 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-2. ℹ️ Reopened PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+1. 🔒 Closed issue [#1](https://github.com/mirkashi/skills-introduction-to-git/issues/1) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
+2. ❗ Opened issue [#2](https://github.com/mirkashi/skills-introduction-to-git/issues/2) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
 3. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-4. ❌ Closed PR [#6](https://github.com/mirkashi/LMS/pull/6) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
-5. 💪 Opened PR [#3](https://github.com/mirkashi/LMS/pull/3) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+4. ℹ️ Reopened PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+5. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 <!--END_SECTION:activity-->
 
 </div>
