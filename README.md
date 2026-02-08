@@ -165,7 +165,7 @@
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1](https://github.com/mirkashi/skills-introduction-to-git/issues/1) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
 2. ❗ Opened issue [#2](https://github.com/mirkashi/skills-introduction-to-git/issues/2) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
-3. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
+3. 🗣 Commented on [#2](https://github.com/mirkashi/Blog-web/pull/2#issuecomment-3756721217) in [mirkashi/Blog-web](https://github.com/mirkashi/Blog-web)
 4. ℹ️ Reopened PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 5. ❌ Closed PR [#7](https://github.com/mirkashi/LMS/pull/7) in [mirkashi/LMS](https://github.com/mirkashi/LMS)
 <!--END_SECTION:activity-->
