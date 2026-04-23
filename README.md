@@ -36,7 +36,7 @@
 
 </td>
 <td width="42%" align="center">
-  <img src="https://raw.githubusercontent.com/mirkashi/mirkashi/main/assets/coding.gif" width="100%" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-77d24f05-18d5-4d6c-8e44-7e22d6f93f75.gif" width="100%" alt="Coding Animation" />
 </td>
   </tr>
 </table>
