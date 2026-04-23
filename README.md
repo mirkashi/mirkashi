@@ -48,7 +48,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30" /> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,firebase,docker,git,github,vscode,figma,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,docker,git,github,vscode,figma,linux&theme=dark" />
 </p>
 
 <p align="center">
