@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,26,30&text=Mir%20Kashif&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Creative%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,26,30&text=Mir%20Kashif&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Creative%20Innovator%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=950&height=60&color=00D9FF&lines=%F0%9F%9A%80+Building+fast%2C+scalable+web+experiences;%E2%9C%A8+Designing+smooth+UI+with+motion+and+clarity;%F0%9F%94%A5+Turning+ideas+into+real-world+products" alt="Typing Animation" />
 </div>
@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=1f2937" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1f2937&logo=react&logoColor=61DAFB" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=1f2937&logo=freelancer&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=for-the-badge&labelColor=1f2937&logo=freelancer&logoColor=white" alt="Status" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 </td>
 <td width="42%" align="center">
-  <img src="./assets/coding.gif" width="100%" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/mirkashi/mirkashi/main/assets/coding.gif" width="100%" alt="Coding Animation" />
 </td>
   </tr>
 </table>
