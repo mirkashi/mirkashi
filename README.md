@@ -66,11 +66,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/mirkashi/mirkashi/pull/28) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-2. 💪 Opened PR [#28](https://github.com/mirkashi/mirkashi/pull/28) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-3. 🎉 Merged PR [#27](https://github.com/mirkashi/mirkashi/pull/27) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-4. 💪 Opened PR [#27](https://github.com/mirkashi/mirkashi/pull/27) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
-5. 🎉 Merged PR [#26](https://github.com/mirkashi/mirkashi/pull/26) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+1. 🎉 Merged PR [#30](https://github.com/mirkashi/mirkashi/pull/30) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+2. 💪 Opened PR [#30](https://github.com/mirkashi/mirkashi/pull/30) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+3. 🎉 Merged PR [#28](https://github.com/mirkashi/mirkashi/pull/28) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+4. 💪 Opened PR [#28](https://github.com/mirkashi/mirkashi/pull/28) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
+5. 🎉 Merged PR [#27](https://github.com/mirkashi/mirkashi/pull/27) in [mirkashi/mirkashi](https://github.com/mirkashi/mirkashi)
 <!--END_SECTION:activity-->
 
 ---
