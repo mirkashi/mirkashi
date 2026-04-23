@@ -36,7 +36,7 @@
 
 </td>
 <td width="42%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-77d24f05-18d5-4d6c-8e44-7e22d6f93f75.gif" width="100%" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-77d24f05-18d5-4d6c-8e44-7e22d6f93f75.gif" width="100%" alt="Animated illustration of a developer coding at a desk" />
 </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@
 <td width="50%" valign="top">
 
 ### 🌐 [Portfolio Website](https://looplord.netlify.app/)
-Modern portfolio with smooth transitions, responsive layouts, and performance-first architecture.
+Modern portfolio with responsive design, optimized assets, lazy-loaded sections, and smooth UI transitions.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwind-css&logoColor=38bdf8)
@@ -72,8 +72,8 @@ Modern portfolio with smooth transitions, responsive layouts, and performance-fi
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce Platform](https://github.com/mirkashi)
-Full-stack commerce app with admin tools, analytics, and scalable backend flows.
+### 🛒 [E-Commerce Work](https://github.com/mirkashi?tab=repositories)
+Full-stack commerce implementations featuring admin dashboards, checkout flows, and backend API integrations.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-022c22?style=flat&logo=mongodb&logoColor=10b981)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express&logoColor=white)
