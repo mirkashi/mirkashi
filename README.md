@@ -1,149 +1,69 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,26,30&text=Mir%20Kashif&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20•%20Creative%20Innovator%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+## About Me
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=950&height=60&color=00D9FF&lines=%F0%9F%9A%80+Building+fast%2C+scalable+web+experiences;%E2%9C%A8+Designing+smooth+UI+with+motion+and+clarity;%F0%9F%94%A5+Turning+ideas+into+real-world+products" alt="Typing Animation" />
+<div style="text-align: center;">
+    <h1 style="color: #00D9FF;">Hello, I'm Mirkashi!</h1>
+    <p style="font-size: 18px;">I'm a passionate software developer.</p>
+    <p class="typing" style="font-size: 20px;"><span id="typing">  </span></p>
+    <script>
+        const text = "I love coding, exploring new technologies, and creating innovative solutions.",
+              speed = 100;
+        let index = 0;
+        function type() {
+            if (index < text.length) {
+                document.getElementById("typing").innerHTML += text.charAt(index);
+                index++;
+                setTimeout(type, speed);
+            }
+        }
+        type();
+    </script>
 </div>
 
-<p align="center">
-  <a href="https://github.com/mirkashi">
-    <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=1f2937" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00D9FF?style=for-the-badge&labelColor=1f2937&logo=react&logoColor=61DAFB" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=for-the-badge&labelColor=1f2937&logo=freelancer&logoColor=white" alt="Status" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> About Me
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-### 👋 Hey, I'm Mir Kashif
-- 🎯 Product-minded **Full Stack Developer**
-- ⚡ Build modern web apps with **MERN + Next.js + TypeScript**
-- 🎨 Love creating **clean UI + smooth interactive experiences**
-- 🚀 Focused on **performance, scalability, and accessibility**
-- 🤝 Open to collaborations on impactful projects
-
-### 🔥 Currently Exploring
-- Advanced patterns in **Next.js App Router**
-- **Cloud architecture** and deployment workflows
-- **AI integrations** for web products
-
-</td>
-<td width="42%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-77d24f05-18d5-4d6c-8e44-7e22d6f93f75.gif" width="100%" alt="Animated coding workspace graphic" />
-</td>
-  </tr>
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 50%;"><strong>What I do:</strong>
+            <ul>
+                <li>Full Stack Development</li>
+                <li>Data Science</li>
+            </ul>
+        </td>
+        <td style="width: 50%;"><strong>What I’m exploring:</strong>
+            <ul>
+                <li>Machine Learning</li>
+                <li>Cloud Computing</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30" /> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,docker,git,github,vscode,figma,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio Website](https://looplord.netlify.app/)
-Modern portfolio with responsive design, optimized assets, lazy-loaded sections, and smooth UI transitions.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwind-css&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [E-Commerce Work](https://github.com/mirkashi?tab=repositories)
-Full-stack commerce implementations featuring admin dashboards, checkout flows, and backend API integrations.
-
-![MongoDB](https://img.shields.io/badge/MongoDB-022c22?style=flat&logo=mongodb&logoColor=10b981)
-![Express](https://img.shields.io/badge/Express-111827?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-052e16?style=flat&logo=node.js&logoColor=22c55e)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/mirkashi?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" alt="View all projects" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mirkashi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<div style="margin: 20px 0;">
+    <strong>Quick Facts:</strong>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <td style="border: 1px solid #00D9FF; padding: 10px;">Location: Virtual</td>
+            <td style="border: 1px solid #00D9FF; padding: 10px;">Hobbies: Coding, Reading</td>
+        </tr>
+    </table>
 </div>
 
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&color=00D9FF&line=00D9FF&point=00D9FF&bg_color=0D1117" alt="Contribution Graph" />
+<details>
+    <summary style="cursor: pointer;">Fun Facts</summary>
+    <p>I once participated in a hackathon and developed a game in under 24 hours!</p>
+    <p>I love learning new programming languages.</p>
+</details>
+
+<div style="overflow: hidden;">
+    <svg width="100%" height="50" preserveAspectRatio="none">
+        <path d="M0,0 C100,100 200,-100 300,0 L300,50 L0,50 Z" style="fill: #00D9FF; animation: wave 5s infinite;"/>
+    </svg>
+    <style>
+        @keyframes wave {
+            0% { transform: translateX(0); }
+            50% { transform: translateX(-20px); }
+            100% { transform: translateX(0); }
+        }
+    </style>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/mirkashi/skills-introduction-to-git/issues/1) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
-2. ❗ Opened issue [#2](https://github.com/mirkashi/skills-introduction-to-git/issues/2) in [mirkashi/skills-introduction-to-git](https://github.com/mirkashi/skills-introduction-to-git)
-3. 🎉 Merged PR [#5](https://github.com/mirkashi/blog/pull/5) in [mirkashi/blog](https://github.com/mirkashi/blog)
-4. 💪 Opened PR [#5](https://github.com/mirkashi/blog/pull/5) in [mirkashi/blog](https://github.com/mirkashi/blog)
-5. 🗣 Commented on [#2](https://github.com/mirkashi/Blog-web/pull/2#issuecomment-3756721217) in [mirkashi/Blog-web](https://github.com/mirkashi/Blog-web)
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mirkashi/mirkashi/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="30" /> Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/mir-kashif-28987428b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/mrswebdev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/LoopLoard10" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/29475966" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="mailto:mirkashi111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let%27s+build+something+beautiful+together+%F0%9F%9A%80" alt="Footer typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24,26,30&section=footer" width="100%" />
-</p>
