@@ -77,6 +77,18 @@
 
 ---
 
+## ⚔️ Aesthetic Animations
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" alt="Fight animation" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="420" alt="Snake animation" />
+</div>
+
+---
+
 <div align="center">
   <b>💙 Thanks for visiting my profile!</b><br/>
   <i>“Code. Create. Improve. Repeat.”</i>
