@@ -1,4 +1,4 @@
-# <div align="center">👋 Assalam-o-Alaikum, I'm **Mirkashi**</div>
+<h1 align="center">👋 Assalam-o-Alaikum, I'm <strong>Mirkashi</strong></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Modern+UI+%7C+Clean+Code;Building+Fast%2C+Scalable+and+User-Friendly+Web+Apps" alt="Typing animation" />
@@ -29,7 +29,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,bootstrap,redux,git,github,vscode,figma,vercel,netlify&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,bootstrap,redux,git,github,vscode,figma,vercel,netlify&perLine=10" alt="Tech stack icons" />
 </div>
 
 ---
