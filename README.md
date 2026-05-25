@@ -77,6 +77,18 @@
 
 ---
 
+## ⚔️ Aesthetic Animations
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" alt="Animated duel scene with fast action moves for a fight-themed visual" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="420" alt="Animated snake moving in a smooth looping motion near the bottom section" />
+</div>
+
+---
+
 <div align="center">
   <b>💙 Thanks for visiting my profile!</b><br/>
   <i>“Code. Create. Improve. Repeat.”</i>
