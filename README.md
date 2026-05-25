@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mirkashi?tab=followers"><img src="https://img.shields.io/badge/Followers-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" /></a>
+  <a href="https://github.com/mirkashi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
   If you want to build something awesome, let's collaborate 🚀<br/><br/>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Contact%20Me-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me" /></a>
+  <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
 </div>
 
 ---
