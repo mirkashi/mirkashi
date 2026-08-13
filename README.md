@@ -1,95 +1,190 @@
-<h1 align="center">👋 Assalam-o-Alaikum, I'm <strong>Mirkashi</strong></h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Modern+UI+%7C+Clean+Code;Building+Fast%2C+Scalable+and+User-Friendly+Web+Apps" alt="Typing animation" />
-</div>
+  <h1>Hi, I'm Mirkashi 👋</h1>
+  <h3>Full-Stack Web Developer</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNvY2Rza21uODh2bW04N3VhMmJjODlnNnI2NXRzNHE0Nmt4ZnVudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Coding GIF" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=I+build+modern%2C+scalable+web+applications;Clean+UI+%C2%B7+Robust+backends+%C2%B7+Production-ready+architecture" alt="Animated headline: I build modern, scalable web applications" />
 
-<div align="center">
-  <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/mirkashi?tab=followers"><img src="https://img.shields.io/badge/Followers-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" /></a>
-  <a href="https://github.com/mirkashi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mirkashi&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
+  <p>
+    <em>I build modern, scalable and high-performance web applications with clean UI, robust backend systems and production-ready architecture.</em>
+  </p>
 
----
+  <p>
+    Islamabad, Pakistan · Open to freelance, collaboration, and full-time opportunities
+  </p>
 
-## 💼 About Me
-
-- 🚀 Passionate **Web Developer** focused on modern, high-performance web applications  
-- 🧠 Working with **Frontend + Backend** to deliver complete digital products  
-- 🎯 Strong interest in **clean architecture, responsive UI, and scalable APIs**  
-- 🤝 Open for **collaboration, freelance projects, and innovative startup ideas**
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,bootstrap,redux,git,github,vscode,figma,vercel,netlify&perLine=10" alt="Tech stack icons" />
+  <p>
+    <a href="https://looplord.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=79C0FF" alt="Portfolio" /></a>
+    <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/mir-kashif-28987428b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mirkashi111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-## 📊 GitHub Language & Activity Stats
+## About
+
+- Full-stack web developer focused on modern interfaces, reliable APIs, and maintainable architecture.
+- Comfortable across the stack — from React and Next.js frontends to Node.js services and databases.
+- Focused on performance, clean code, and shipping work that holds up in production.
+- Open to collaboration, freelance projects, and product-minded teams.
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages with percentage" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirkashi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirkashi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <strong>Frontend</strong><br /><br />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap, Tailwind CSS" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <strong>Backend</strong><br /><br />
+        <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend: Node.js, Express.js" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <strong>Database</strong><br /><br />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" alt="Database: MongoDB, PostgreSQL, MySQL" />
+      </td>
+      <td align="center" valign="top">
+        <strong>Tools</strong><br /><br />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" alt="Tools: Git, GitHub, VS Code, Figma, Vercel, Netlify" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 Highlights
+## Featured Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Gym Website</h3>
+      <p>Full-stack fitness platform with memberships, classes, trainers, and an admin dashboard.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Express.js</code> <code>MongoDB</code></p>
+      <p><strong>Key feature:</strong> JWT authentication with member and admin workflows.</p>
+      <p>
+        <a href="https://github.com/mirkashi/Gym-website">GitHub</a> ·
+        <a href="https://mirkashi.github.io/Gym-website/">Live Demo</a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>AquaGrow</h3>
+      <p>E-commerce store for aquaponic systems — a final-year project with catalog, cart, and checkout.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><strong>Key feature:</strong> Product catalog with cart, checkout, and user authentication.</p>
+      <p>
+        <a href="https://github.com/mirkashi/AquaGrow">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Loop Lord</h3>
+      <p>Personal developer portfolio with a project showcase and a working contact flow.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><strong>Key feature:</strong> Responsive portfolio layout with an integrated contact form.</p>
+      <p>
+        <a href="https://github.com/mirkashi/Loop-Lord">GitHub</a> ·
+        <a href="https://looplord.vercel.app/">Live Demo</a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Barber Master</h3>
+      <p>Responsive barbershop website with a service-focused, conversion-oriented layout.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><strong>Key feature:</strong> Multi-section business site built for clarity and speed.</p>
+      <p>
+        <a href="https://github.com/mirkashi/Barber-master">GitHub</a> ·
+        <a href="https://mirkashi.github.io/Barber-master/">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <ul>
+        <li>Responsive web applications</li>
+        <li>Full-stack applications</li>
+        <li>REST APIs</li>
+        <li>Database-driven products</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li>Authentication systems</li>
+        <li>Admin dashboards</li>
+        <li>Production deployments</li>
+        <li>Performance-focused UI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Currently Building
+
+- Full-stack applications with React, Next.js, and TypeScript
+- REST APIs and database-backed features
+- Modern UI with Tailwind CSS and the React ecosystem
+- Production deployments on Vercel and Netlify
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirkashi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mirkashi&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" alt="GitHub statistics for mirkashi" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkashi&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="Top languages for mirkashi" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mirkashi&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=21262D" alt="GitHub streak statistics for mirkashi" />
 </div>
 
 ---
 
-## 📌 Current Focus
-
-- 🌐 Advanced Full-Stack Web Development  
-- ⚙️ REST APIs & Database Optimization  
-- 🎨 Modern UI/UX with Tailwind & React Ecosystem  
-- 🚢 Production Deployment (Vercel, Netlify, and cloud workflows)
-
----
-
-## 🤝 Let’s Connect
+## Activity
 
 <div align="center">
-  If you want to build something awesome, let's collaborate 🚀<br/><br/>
-  <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-</div>
-
----
-
-## ⚔️ Aesthetic Animations
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" alt="Animated duel scene with fast action moves for a fight-themed visual" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="420" alt="Animated snake moving in a smooth looping motion near the bottom section" />
+  <img src="https://ghchart.rshah.org/58A6FF/mirkashi" alt="GitHub contribution chart for mirkashi" />
+  <p><a href="https://github.com/mirkashi?tab=repositories">View repositories</a> · <a href="https://github.com/mirkashi">Full activity</a></p>
 </div>
 
 ---
 
 <div align="center">
-  <b>💙 Thanks for visiting my profile!</b><br/>
-  <i>“Code. Create. Improve. Repeat.”</i>
+  <h2>Let's Build Something Great Together</h2>
+  <p>
+    I'm open to interesting projects, collaborations and opportunities.<br />
+    Feel free to reach out.
+  </p>
+  <p>
+    <a href="https://github.com/mirkashi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/mir-kashif-28987428b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://looplord.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=79C0FF" alt="Portfolio" /></a>
+    <a href="mailto:mirkashi111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <p>Thanks for visiting my profile.</p>
+  <p><em>Build. Learn. Ship. 🚀</em></p>
 </div>
