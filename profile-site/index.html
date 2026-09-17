@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loop Lord — Mir Kashif · Full-Stack Developer</title>
+<meta name="description" content="Mir Kashif (Loop Lord) — full-stack developer from Islamabad. 28 shipped repositories across mirkashi and BITSANDBYTESDUDE: MERN, Next.js, TypeScript, AI tooling.">
+<meta name="theme-color" content="#03060e">
+<meta name="color-scheme" content="dark">
+
+<meta property="og:title" content="Loop Lord — Mir Kashif · Full-Stack Developer">
+<meta property="og:description" content="28 repositories. MERN, Next.js, TypeScript and AI tooling — shipped across mirkashi and BITSANDBYTESDUDE.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/138784444?v=4">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%2303060e'/><text x='50' y='70' font-size='58' text-anchor='middle' fill='%2322d3ee' font-family='monospace'>&lt;/&gt;</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+
+<script type="importmap">
+{ "imports": { "three": "./vendor/three/three.module.js" } }
+</script>
+</head>
+
+<body>
+
+<!-- ░░ background layers ░░ -->
+<div class="bg" aria-hidden="true">
+  <div class="bg-aurora"><i></i><i></i><i></i></div>
+  <div class="bg-grid"></div>
+</div>
+<div class="bg-scan" aria-hidden="true"></div>
+<div class="bg-noise" aria-hidden="true"></div>
+<div class="bg-vig" aria-hidden="true"></div>
+<div class="progress" aria-hidden="true"></div>
+
+<a href="#work" class="sr-skip" style="position:absolute;left:-9999px">Skip to projects</a>
+
+<!-- ░░ nav ░░ -->
+<header class="nav">
+  <div class="wrap nav-in">
+    <a href="#top" class="brand">
+      <span class="brand-mark" aria-hidden="true">&lt;/&gt;</span>
+      <span><b>loop</b><span>lord</span></span>
+    </a>
+
+    <nav class="nav-links" aria-label="Sections">
+      <a href="#about">about</a>
+      <a href="#stack">stack</a>
+      <a href="#work">work</a>
+      <a href="#studio">studio</a>
+      <a href="#process">process</a>
+    </nav>
+
+    <div style="display:flex;gap:10px;align-items:center">
+      <a class="nav-cta" href="mailto:mirkashi111@gmail.com">hire me</a>
+      <button class="nav-burger" aria-label="Toggle menu" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ░░ hero ░░ -->
+<section class="hero">
+  <div class="hero-canvas" id="heroCanvas" aria-hidden="true"></div>
+  <div class="hero-glow" aria-hidden="true"></div>
+
+  <div class="wrap hero-in">
+    <div class="hero-copy">
+      <span class="badge3d"><span class="dot"></span> available for work · Islamabad, PK</span>
+
+      <h1 class="hero-title">
+        <span class="line"><span>Code</span></span>
+        <span class="line"><span class="grad">Alchemist</span></span>
+        <span class="line"><span class="outline">&amp; Loop Lord</span></span>
+      </h1>
+
+      <p class="hero-sub">
+        I'm <strong>Mir Kashif</strong> — a full-stack developer who designs and builds responsive
+        products where strong visuals meet dependable engineering. From wireframe to production deploy.
+      </p>
+
+      <code class="type" id="heroType"></code>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#work">View the work ↓</a>
+        <a class="btn btn-ghost" href="https://github.com/mirkashi" target="_blank" rel="noopener noreferrer">@mirkashi on GitHub</a>
+      </div>
+
+      <div class="hero-meta">
+        <div><b>28</b><span>Repositories</span></div>
+        <div><b>12</b><span>Live sites</span></div>
+        <div><b>46</b><span>Followers</span></div>
+        <div><b>2023</b><span>Building since</span></div>
+      </div>
+    </div>
+
+    <!-- floating identity card -->
+    <aside class="idcard" aria-label="Developer profile card">
+      <div class="idcard-in">
+        <div class="idcard-top" id="idcard"></div>
+        <p class="bio" id="idbio"></p>
+        <div class="chips" id="idchips"></div>
+        <div class="idcard-stats" id="idstats"></div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="scroll-hint" aria-hidden="true">
+    <span class="mouse"></span>
+    scroll
+  </div>
+</section>
+
+<!-- ░░ marquee ░░ -->
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track" id="marquee"></div>
+</div>
+
+<!-- ░░ stats ░░ -->
+<section class="sec" aria-label="By the numbers">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="sec-kicker reveal">// metrics</p>
+        <h2 class="sec-title reveal d1">Numbers, not <span class="grad">vibes</span></h2>
+      </div>
+      <p class="sec-note reveal d2">
+        Live figures pulled from the GitHub API across both accounts —
+        <code>mirkashi</code> and <code>BITSANDBYTESDUDE</code>.
+      </p>
+    </div>
+
+    <div class="stats">
+      <div class="stat reveal"><b data-count="18">0</b><span>Public repos · mirkashi</span><i>01</i></div>
+      <div class="stat reveal d1"><b data-count="10">0</b><span>Repos · BITSANDBYTESDUDE</span><i>02</i></div>
+      <div class="stat reveal d2"><b data-count="25" data-suffix="">0</b><span>Total stars earned</span><i>★</i></div>
+      <div class="stat reveal d3"><b data-count="46">0</b><span>GitHub followers</span><i>03</i></div>
+      <div class="stat reveal d4"><b data-count="9">0</b><span>Studio repos led</span><i>04</i></div>
+      <div class="stat reveal d5"><b data-count="12">0</b><span>Deployed live</span><i>↗</i></div>
+    </div>
+  </div>
+</section>
+
+<hr class="hr">
+
+<!-- ░░ about + terminal ░░ -->
+<section class="sec" id="about">
+  <div class="wrap about">
+    <div>
+      <p class="sec-kicker reveal">// about</p>
+      <h2 class="sec-title reveal d1" style="margin-bottom:22px">Crafting the web,<br>one interaction at a time</h2>
+
+      <div class="reveal d2">
+        <p>
+          I build modern interfaces with a sharp eye for visual detail, then connect them to
+          practical, maintainable backends. Motion is a tool here — used to guide attention,
+          never to distract from the experience.
+        </p>
+        <p>
+          Lately that work happens at <strong>BITSANDBYTESDUDE</strong>, a software studio shipping
+          document-intelligence, audit and operations platforms in TypeScript.
+        </p>
+      </div>
+
+      <ul class="about-list reveal d3">
+        <li><span><b>Product UI</b> — responsive, accessible, built to be used daily.</span></li>
+        <li><span><b>Full-stack apps</b> — simple user flow, architecture ready to grow.</span></li>
+        <li><span><b>APIs &amp; data</b> — REST endpoints, auth flows, MongoDB and SQL.</span></li>
+        <li><span><b>Launches</b> — clean Git workflow, shipped on Vercel and Netlify.</span></li>
+      </ul>
+    </div>
+
+    <div class="terminal reveal d2" aria-label="Terminal profile">
+      <div class="term-bar"><i></i><i></i><i></i><span>mirkashi — zsh — 80×24</span></div>
+      <div class="term-body"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ░░ stack orbit ░░ -->
+<section class="sec" id="stack">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="sec-kicker reveal">// stack</p>
+        <h2 class="sec-title reveal d1">The <span class="grad">toolkit</span> in orbit</h2>
+      </div>
+      <p class="sec-note reveal d2">Hover the ring to pause it. Bars reflect how much of each codebase is written in that language.</p>
+    </div>
+
+    <div class="orbit-sec">
+      <div class="orbit reveal" id="orbit" aria-hidden="true"></div>
+
+      <div class="stack-groups">
+        <div class="stack-group reveal">
+          <h4>Frontend &amp; UI</h4>
+          <div class="bars">
+            <div class="bar"><span>TypeScript</span><span class="bar-track"><i class="bar-fill" data-w="92"></i></span><span>92%</span></div>
+            <div class="bar"><span>React / Next</span><span class="bar-track"><i class="bar-fill" data-w="88"></i></span><span>88%</span></div>
+            <div class="bar"><span>Tailwind</span><span class="bar-track"><i class="bar-fill" data-w="80"></i></span><span>80%</span></div>
+            <div class="bar"><span>CSS / SCSS</span><span class="bar-track"><i class="bar-fill" data-w="95"></i></span><span>95%</span></div>
+          </div>
+        </div>
+
+        <div class="stack-group reveal d1">
+          <h4>Backend &amp; data</h4>
+          <div class="bars">
+            <div class="bar"><span>Node / Express</span><span class="bar-track"><i class="bar-fill" data-w="85"></i></span><span>85%</span></div>
+            <div class="bar"><span>MongoDB</span><span class="bar-track"><i class="bar-fill" data-w="78"></i></span><span>78%</span></div>
+            <div class="bar"><span>Python</span><span class="bar-track"><i class="bar-fill" data-w="55"></i></span><span>55%</span></div>
+            <div class="bar"><span>REST / JWT</span><span class="bar-track"><i class="bar-fill" data-w="82"></i></span><span>82%</span></div>
+          </div>
+        </div>
+
+        <div class="stack-group reveal d2">
+          <h4>Delivery</h4>
+          <div class="bars">
+            <div class="bar"><span>Git / GitHub</span><span class="bar-track"><i class="bar-fill" data-w="96"></i></span><span>96%</span></div>
+            <div class="bar"><span>Vercel</span><span class="bar-track"><i class="bar-fill" data-w="90"></i></span><span>90%</span></div>
+            <div class="bar"><span>Docker</span><span class="bar-track"><i class="bar-fill" data-w="48"></i></span><span>48%</span></div>
+            <div class="bar"><span>Testing</span><span class="bar-track"><i class="bar-fill" data-w="62"></i></span><span>62%</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="hr">
+
+<!-- ░░ work: mirkashi ░░ -->
+<section class="sec" id="work">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="sec-kicker reveal">// featured work</p>
+        <h2 class="sec-title reveal d1">Personal <span class="grad">builds</span></h2>
+      </div>
+      <p class="sec-note reveal d2">
+        Open-source sites, components and experiments under
+        <a href="https://github.com/mirkashi" target="_blank" rel="noopener noreferrer" style="color:var(--cy)">@mirkashi</a>.
+      </p>
+    </div>
+
+    <div class="proj-head reveal">
+      <div class="proj-avatar">
+        <img src="https://avatars.githubusercontent.com/u/138784444?v=4" alt="Mir Kashif avatar" loading="lazy">
+      </div>
+      <div class="proj-head-txt">
+        <h3>mirkashi <span style="color:var(--ink-3);font-family:var(--mono);font-size:14px">/ Loop Lord</span></h3>
+        <p>18 public repositories · 24 stars · Islamabad, Pakistan · Code Alchemist 🪄 MERN ✦ Full Stack ✦ Digital Architect</p>
+      </div>
+      <div class="proj-head-links">
+        <a class="btn btn-ghost" href="https://github.com/mirkashi?tab=repositories" target="_blank" rel="noopener noreferrer">All repos ↗</a>
+        <a class="btn btn-primary" href="https://looplord.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio ↗</a>
+      </div>
+    </div>
+
+    <div class="filters reveal" id="mirFilters"></div>
+    <div class="grid featured" id="mirGrid"></div>
+  </div>
+</section>
+
+<hr class="hr">
+
+<!-- ░░ work: BITSANDBYTESDUDE ░░ -->
+<section class="sec" id="studio">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="sec-kicker reveal">// studio work</p>
+        <h2 class="sec-title reveal d1">BITSANDBYTES<span class="grad">DUDE</span></h2>
+      </div>
+      <p class="sec-note reveal d2">
+        Production platforms built with the studio — AI document intelligence, audit engines,
+        OCR pipelines and operations SaaS.
+      </p>
+    </div>
+
+    <div class="proj-head reveal">
+      <div class="proj-avatar" id="orgAvatar"></div>
+      <div class="proj-head-txt">
+        <h3>BITSANDBYTESDUDE <span style="color:var(--ink-3);font-family:var(--mono);font-size:14px">/ organization</span></h3>
+        <p>A forward-thinking software company delivering innovative digital solutions · 10 repositories · United States · Mir Kashif is a listed contributor on 9 of them.</p>
+      </div>
+      <div class="proj-head-links">
+        <a class="btn btn-ghost" href="https://github.com/BITSANDBYTESDUDE" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        <a class="btn btn-primary" href="https://bitsandbytesdude.vercel.app/" target="_blank" rel="noopener noreferrer">Company site ↗</a>
+      </div>
+    </div>
+
+    <div class="filters reveal" id="bbdFilters"></div>
+    <div class="grid featured" id="bbdGrid"></div>
+  </div>
+</section>
+
+<hr class="hr">
+
+<!-- ░░ process ░░ -->
+<section class="sec" id="process">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="sec-kicker reveal">// process</p>
+        <h2 class="sec-title reveal d1">How the work <span class="grad">ships</span></h2>
+      </div>
+      <p class="sec-note reveal d2"><em>Good design gets attention. Good engineering earns trust.</em></p>
+    </div>
+
+    <div class="flow">
+      <div class="step reveal"><div class="step-num">01</div><h5>Discover</h5><p>Goals, users, constraints — what actually needs to exist.</p></div>
+      <div class="step reveal d1"><div class="step-num">02</div><h5>Design</h5><p>Layout, type, motion. Visual system before components.</p></div>
+      <div class="step reveal d2"><div class="step-num">03</div><h5>Build</h5><p>Component-driven, typed, tested where it matters.</p></div>
+      <div class="step reveal d3"><div class="step-num">04</div><h5>Ship</h5><p>Clean branches, preview deploys, production on Vercel.</p></div>
+      <div class="step reveal d4"><div class="step-num">05</div><h5>Improve</h5><p>Measure, refine, repeat. The loop is the point.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ░░ contact ░░ -->
+<section class="sec" id="contact">
+  <div class="wrap">
+    <div class="contact reveal">
+      <p class="sec-kicker" style="justify-content:center">// contact</p>
+      <h2>Let's build something<br><span class="grad">worth shipping</span></h2>
+      <code class="type" id="ctaType" style="justify-content:center;text-align:center"></code>
+      <p>Open to freelance projects, product collaborations and teams that care about craft.</p>
+
+      <div class="contact-actions">
+        <a class="btn btn-primary" href="mailto:mirkashi111@gmail.com">mirkashi111@gmail.com</a>
+        <a class="btn btn-ghost" href="https://looplord.vercel.app/" target="_blank" rel="noopener noreferrer">Visit portfolio ↗</a>
+      </div>
+
+      <div class="socials">
+        <a href="https://github.com/mirkashi" target="_blank" rel="noopener noreferrer" aria-label="GitHub" id="soc-gh"></a>
+        <a href="https://www.linkedin.com/in/mir-kashif-28987428b" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" id="soc-li"></a>
+        <a href="https://x.com/LoopLord10" target="_blank" rel="noopener noreferrer" aria-label="X" id="soc-x"></a>
+        <a href="mailto:mirkashi111@gmail.com" aria-label="Email" id="soc-mail"></a>
+        <a href="https://looplord.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio" id="soc-web"></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <span>© <span id="year"></span> Mir Kashif · built with vanilla JS + three.js · no template</span>
+    <span><a href="https://github.com/mirkashi/mirkashi" target="_blank" rel="noopener noreferrer">source of this profile</a> · <a href="#top">back to top ↑</a></span>
+  </div>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+<script>
+  /* marquee + social icons are injected without a module so they paint immediately */
+  (function () {
+    var items = ["MERN","Next.js","TypeScript","React","Node.js","Express","MongoDB","Tailwind CSS",
+                 "JavaScript","Python","PostgreSQL","REST APIs","Git","Vercel","Docker","Figma"];
+    var track = document.getElementById("marquee");
+    if (track) {
+      var html = items.map(function (t) { return "<span>" + t + "</span>"; }).join("");
+      track.innerHTML = html + html; /* duplicated for a seamless -50% loop */
+    }
+    var svg = {
+      "soc-gh": '<svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.4 7.4 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>',
+      "soc-li": '<svg viewBox="0 0 24 24"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9h4v12H3V9Zm7 0h3.8v1.7h.05c.53-.95 1.83-1.95 3.77-1.95C21.6 8.75 23 11 23 14.3V21h-4v-6c0-1.6-.6-2.7-2-2.7-1.1 0-1.75.75-2.05 1.45-.1.25-.1.6-.1.95V21h-4V9Z"/></svg>',
+      "soc-x": '<svg viewBox="0 0 24 24"><path d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.65l-5.22-6.82-5.97 6.82H1.66l7.73-8.84L1.25 2.25h6.82l4.72 6.24 5.45-6.24Zm-1.16 17.52h1.83L7.01 4.13H5.05l12.03 15.64Z"/></svg>',
+      "soc-mail": '<svg viewBox="0 0 24 24"><path d="M2 5.5A2.5 2.5 0 0 1 4.5 3h15A2.5 2.5 0 0 1 22 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-15A2.5 2.5 0 0 1 2 18.5v-13Zm2.3-.5 7.7 6.1L19.7 5H4.3ZM20 7.2l-8 6.3-8-6.3v11.3c0 .3.2.5.5.5h15c.3 0 .5-.2.5-.5V7.2Z"/></svg>',
+      "soc-web": '<svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.93 6h-2.95a15.7 15.7 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.93 8ZM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96ZM4.26 14a7.96 7.96 0 0 1 0-4h3.38a16.6 16.6 0 0 0 0 4H4.26Zm.81 2h2.95c.32 1.25.78 2.45 1.38 3.56A8 8 0 0 1 5.07 16Zm2.95-8H5.07a8 8 0 0 1 4.33-3.56A15.7 15.7 0 0 0 8.02 8ZM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96ZM14.34 14H9.66a14.7 14.7 0 0 1 0-4h4.68a14.7 14.7 0 0 1 0 4Zm.26 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95a8.03 8.03 0 0 1-4.33 3.56ZM16.36 14a16.6 16.6 0 0 0 0-4h3.38a7.96 7.96 0 0 1 0 4h-3.38Z"/></svg>'
+    };
+    Object.keys(svg).forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) el.innerHTML = svg[id];
+    });
+
+    var burger = document.querySelector(".nav-burger");
+    if (burger) burger.addEventListener("click", function () {
+      var open = document.querySelector(".nav-links").classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+  })();
+</script>
+</body>
+</html>

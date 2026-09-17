@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Gym Website cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7F1D1D"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#F43F5E" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#F43F5E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <path d="M780 360 h110 l40 -120 60 240 50 -160 40 90 h200"
+          fill="none" stroke="#FDA4AF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+    <circle cx="1030" cy="410" r="14" fill="#FDA4AF"/>
+    <g stroke="#FDA4AF" stroke-width="3" opacity=".2">
+      <path d="M760 200 H1300 M760 520 H1300"/>
+    </g></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#FDA4AF" opacity=".85" letter-spacing="4">FITNESS LANDING PAGE</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">Gym Website</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">fitness landing page</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#FDA4AF" opacity=".85"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="9T-Angle Ops cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <g stroke="#93C5FD" stroke-width="3" opacity=".25">
+      <path d="M830 480 H1180 M830 400 H1180 M830 320 H1180 M830 240 H1180"/>
+    </g>
+    <g fill="#93C5FD">
+      <rect x="855" y="360" width="46" height="120" rx="8" opacity=".45"/>
+      <rect x="925" y="300" width="46" height="180" rx="8" opacity=".6"/>
+      <rect x="995" y="250" width="46" height="230" rx="8" opacity=".8"/>
+      <rect x="1065" y="195" width="46" height="285" rx="8" opacity=".95"/>
+    </g>
+    <path d="M855 350 L948 290 L1018 240 L1088 185" fill="none" stroke="#93C5FD" stroke-width="5" opacity=".9"/>
+    <circle cx="1088" cy="185" r="11" fill="#93C5FD"/></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#93C5FD" opacity=".85" letter-spacing="4">PERFORMANCE WORKSPACE</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">9T-Angle Ops</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">performance workspace</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#93C5FD" opacity=".85"/>
+</svg>

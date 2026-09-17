@@ -1,0 +1,10 @@
+# npm working dirs — the built site vendors only what it needs
+# (profile-site/vendor/three + profile-site/assets/fonts are committed on purpose
+#  so the page works with no CDN access).
+node_modules/
+package-lock.json
+
+# scratch / build helpers
+.arena/
+*.log
+.DS_Store

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="SmartOrderReader cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#065F46"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <rect x="850" y="170" width="310" height="380" rx="16" fill="none" stroke="#6EE7B7" stroke-width="3" opacity=".45"/>
+    <path d="M850 220 h-28 M850 500 h-28 M1160 220 h28 M1160 500 h28" stroke="#6EE7B7" stroke-width="4" opacity=".6"/>
+    <path d="M850 170 v-28 h28 M1160 170 v-28 h-28 M850 550 v28 h28 M1160 550 v28 h-28"
+          fill="none" stroke="#6EE7B7" stroke-width="5" opacity=".85"/>
+    <path d="M850 360 H1160" stroke="#6EE7B7" stroke-width="5" opacity=".95"/>
+    <rect x="850" y="348" width="310" height="24" fill="#6EE7B7" opacity=".16"/>
+    <g fill="#6EE7B7" opacity=".55">
+      <rect x="885" y="215" width="150" height="13" rx="6"/>
+      <rect x="885" y="248" width="200" height="13" rx="6"/>
+      <rect x="885" y="420" width="170" height="13" rx="6"/>
+      <rect x="885" y="453" width="120" height="13" rx="6"/>
+    </g></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#6EE7B7" opacity=".85" letter-spacing="4">OCR TO CSV</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">SmartOrderReader</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">OCR to CSV</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#6EE7B7" opacity=".85"/>
+</svg>

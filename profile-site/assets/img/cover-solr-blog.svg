@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Solar Expert cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <circle cx="1005" cy="345" r="95" fill="#FDE68A" opacity=".35"/>
+    <circle cx="1005" cy="345" r="62" fill="#FDE68A" opacity=".75"/>
+    <g stroke="#FDE68A" stroke-width="6" stroke-linecap="round" opacity=".7">
+      <path d="M1005 195 v-45 M1005 540 v45 M855 345 h-45 M1200 345 h45"/>
+      <path d="M899 239 l-32 -32 M1111 451 l32 32 M1111 239 l32 -32 M899 451 l-32 32"/>
+    </g>
+    <path d="M700 560 q120 -70 240 0 t240 0 t240 0" fill="none" stroke="#FDE68A" stroke-width="4" opacity=".3"/></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#FDE68A" opacity=".85" letter-spacing="4">MERN CONTENT PLATFORM</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">Solar Expert</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">MERN content platform</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#FDE68A" opacity=".85"/>
+</svg>
