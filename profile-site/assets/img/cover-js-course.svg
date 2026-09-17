@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="JavaScript Course cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#FACC15" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#FACC15" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <g font-family="monospace" font-size="30" fill="#FDE047" opacity=".75">
+      <text x="820" y="230">const skills = [</text>
+      <text x="860" y="278">"closures",</text>
+      <text x="860" y="326">"prototypes",</text>
+      <text x="860" y="374">"async / await"</text>
+      <text x="820" y="422">];</text>
+      <text x="820" y="486">skills.forEach(learn)</text>
+    </g>
+    <rect x="1188" y="452" width="18" height="38" fill="#FDE047" opacity=".9"/></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#FDE047" opacity=".85" letter-spacing="4">123 COMMITS OF PRACTICE</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">JavaScript Course</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">123 commits of practice</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#FDE047" opacity=".85"/>
+</svg>

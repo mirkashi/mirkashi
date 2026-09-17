@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="ReportHub cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C2D12"/>
+      <stop offset="55%" stop-color="#070c18"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#D97706" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#D97706" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 H0 V48" fill="none" stroke="#8ea3c8" stroke-width="1" opacity=".09"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04070f" stop-opacity=".96"/>
+      <stop offset="45%" stop-color="#04070f" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#04070f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+  <g opacity=".9">
+    <g opacity=".85">
+      <path d="M1005 165 L1170 250 L1005 335 L840 250 Z" fill="none" stroke="#FBBF24" stroke-width="4"/>
+      <path d="M840 320 L1005 405 L1170 320" fill="none" stroke="#FBBF24" stroke-width="4" opacity=".65"/>
+      <path d="M840 390 L1005 475 L1170 390" fill="none" stroke="#FBBF24" stroke-width="4" opacity=".4"/>
+    </g>
+    <circle cx="1005" cy="250" r="26" fill="#FBBF24" opacity=".5"/></g>
+  <rect width="1280" height="720" fill="url(#fade)"/>
+  <g font-family="'JetBrains Mono', ui-monospace, monospace">
+    <text x="70" y="562" font-size="20" fill="#FBBF24" opacity=".85" letter-spacing="4">WEEKLY REPORT SYSTEM</text>
+    <text x="70" y="628" font-size="56" fill="#f8fafc" font-weight="700"
+          textLength="760" lengthAdjust="spacingAndGlyphs">ReportHub</text>
+    <text x="70" y="672" font-size="22" fill="#9fb3d1" opacity=".9"
+          textLength="600" lengthAdjust="spacingAndGlyphs">weekly report system</text>
+  </g>
+  <rect x="0" y="0" width="1280" height="6" fill="#FBBF24" opacity=".85"/>
+</svg>
