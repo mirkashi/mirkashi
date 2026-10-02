@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-label="9T-Angle Operations — platform · studio"><defs>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A11"/>
+      <stop offset="0.55" stop-color="#080E17"/>
+      <stop offset="1" stop-color="#04070C"/>
+    </linearGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid16" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#101B2B" stroke-width="1" opacity=".5"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft8" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="soft3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="clipSurface"><rect x="0" y="0" width="1200" height="100%" rx="0"/></clipPath>
+  </defs><defs>
+      <clipPath id="cardClip"><rect x="0" y="0" width="1000" height="444" rx="16"/></clipPath>
+      <clipPath id="shotClip"><path d="M0 37 H1000 V216 A16 16 0 0 1 984 232 H16 A16 16 0 0 1 0 216 Z"/></clipPath>
+      <linearGradient id="cardSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winBg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#0C1420"/><stop offset="1" stop-color="#060B13"/>
+      </linearGradient>
+      <linearGradient id="artAccent" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/>
+      </linearGradient>
+      <linearGradient id="artThumb" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#16324C"/><stop offset="1" stop-color="#2A1F4D"/>
+      </linearGradient>
+      <radialGradient id="winGlow" cx="76%" cy="58%" r="72%">
+        <stop offset="0" stop-color="#8AB8FF" stop-opacity=".28"/><stop offset="1" stop-color="#8AB8FF" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="winGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M20 0H0V20" fill="none" stroke="#16273C" stroke-width="1" opacity=".55"/>
+      </pattern>
+    </defs><g clip-path="url(#cardClip)">
+    <rect width="1000" height="444" fill="#080D16"/>
+    <rect y="37" width="1000" height="195" fill="url(#winBg)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGrid)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGlow)"/>
+    <text x="60" y="61" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="1.8">WEEKLY PERFORMANCE INDEX</text><rect x="60" y="153.5" width="76.57" height="52.5" rx="4" fill="#243B56" opacity="0.5"/><rect x="148.57" y="133.5" width="76.57" height="72.5" rx="4" fill="#243B56" opacity="0.5700000000000001"/><rect x="237.14" y="143.5" width="76.57" height="62.5" rx="4" fill="#243B56" opacity="0.64"/><rect x="325.71" y="116" width="76.57" height="90" rx="4" fill="#243B56" opacity="0.71"/><rect x="414.29" y="123.5" width="76.57" height="82.5" rx="4" fill="#243B56" opacity="0.78"/><rect x="502.86" y="96" width="76.57" height="110" rx="4" fill="#8AB8FF" opacity="0.8500000000000001"/><rect x="591.43" y="108.5" width="76.57" height="97.5" rx="4" fill="#8AB8FF" opacity="0.92"/><path d="M98.29 168.5 L186.86 153.5 L275.43 158.5 L364 137.25 L452.57 131 L541.14 116 L629.71 98.5" fill="none" stroke="#8AB8FF" stroke-width="2.2" stroke-linecap="round"/><circle cx="629.71" cy="98.5" r="4.5" fill="#8AB8FF">
+      <animate attributeName="r" values="4.5;7;4.5" dur="2.6s" repeatCount="indefinite"/></circle><line x1="60" y1="212" x2="680" y2="212" stroke="#1E3752" stroke-width="1"/><rect x="730" y="57" width="230" height="36" rx="8" fill="#0B1420" stroke="#1E3752"/><text x="742" y="71" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" fill="#5A6B85" letter-spacing="1.4">TARGET</text><text x="742" y="87" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#FFFFFF">128%</text><rect x="730" y="100" width="230" height="36" rx="8" fill="#0B1420" stroke="#1E3752"/><text x="742" y="114" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" fill="#5A6B85" letter-spacing="1.4">TASKS</text><text x="742" y="130" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#FFFFFF">412</text><rect x="730" y="143" width="230" height="36" rx="8" fill="#0B1420" stroke="#1E3752"/><text x="742" y="157" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" fill="#5A6B85" letter-spacing="1.4">ON TIME</text><text x="742" y="173" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#FFFFFF">97%</text>
+    <rect width="1000" height="37" fill="#0A1119"/><rect width="1000" height="1" fill="url(#winSheen)"/><circle cx="22" cy="18.5" r="4" fill="#1E324A"/><circle cx="37" cy="18.5" r="4" fill="#1E324A"/><circle cx="52" cy="18.5" r="4" fill="#1E324A"/><text x="76" y="22" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" letter-spacing="0.6">9t-angle — operations platform</text><circle cx="978" cy="18.5" r="3.2" fill="#8AB8FF" opacity=".8">
+      <animate attributeName="opacity" values=".8;.25;.8" dur="3.4s" repeatCount="indefinite"/></circle><rect x="0" y="36" width="1000" height="1" fill="#101B2B"/>
+    <rect y="232" width="1000" height="1.4" fill="#05070C"/>
+    <rect y="233.4" width="1000" height="1" fill="url(#cardSheen)" opacity=".5"/>
+  </g><text x="28" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#8AB8FF" letter-spacing="2.6">PLATFORM · STUDIO</text><text x="972" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end" letter-spacing="1.4">05</text><text x="28" y="288" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="650" fill="#FFFFFF" letter-spacing="-0.3">9T-Angle Operations</text><text x="28" y="314" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">Agency management for tasks, targets, attendance and performance — with a weighted scoring engine and scheduled</text><text x="28" y="332" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">alerts.</text><rect x="28" y="354" width="92" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="41" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Next.js 16</text><rect x="128" y="354" width="79" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="141" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">React 19</text><rect x="215" y="354" width="86" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="228" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Express 5</text><rect x="309" y="354" width="72" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="322" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">MongoDB</text><rect x="389" y="354" width="79" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="402" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Recharts</text><defs><linearGradient id="cf9t-angle" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E4A63" stop-opacity="0.4"/><stop offset="1" stop-color="transparent" stop-opacity="0"/></linearGradient></defs><rect x="28" y="398" width="944" height="1" fill="url(#cf9t-angle)"/><g transform="translate(28 408) scale(0.54)"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#7C8EA9" opacity="0.85"/></g><text x="48" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#7C8EA9" letter-spacing="0.3">source on github</text><text x="972" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#8AB8FF" text-anchor="end" letter-spacing="1.6" opacity="0.95">VIEW →</text><rect x="0.5" y="0.5" width="999" height="443" rx="16" fill="none" stroke="#16243A" stroke-width="1"/></svg>

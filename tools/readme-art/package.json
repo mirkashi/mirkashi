@@ -1,0 +1,14 @@
+{
+  "name": "mirkashi-readme-art",
+  "private": true,
+  "type": "module",
+  "description": "Builds every piece of artwork used by the profile README (SVG panels, preview cards, pill buttons).",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node preview.mjs ../../assets/hero.svg"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5",
+    "simple-icons": "13.21.0"
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262" height="54" viewBox="0 0 262 54" role="img" aria-label="EMAIL — mirkashi111@gmail.com"><defs>
+      <linearGradient id="pFill" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#101B29"/><stop offset="1" stop-color="#080E17"/>
+      </linearGradient>
+      <linearGradient id="pSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+        <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".18"/>
+        <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="pGlow" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+        <stop offset=".5" stop-color="#A78BFA" stop-opacity=".85"/>
+        <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      </linearGradient>
+    </defs><ellipse cx="131" cy="30" rx="110.03999999999999" ry="20" fill="url(#pGlow)" opacity=".22" filter="url(#pblur)"/><defs><filter id="pblur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="9"/></filter></defs><rect x="0.5" y="0.5" width="261" height="53" rx="12" fill="url(#pFill)" stroke="#1E3552"/><rect x="1" y="1" width="260" height="1" fill="url(#pSheen)"/><rect x="105" y="0.5" width="52" height="1.4" fill="url(#pGlow)" opacity=".9"/><g transform="translate(20 19) scale(0.67)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#A78BFA" opacity="0.95"/></g><text x="46" y="25" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="600" fill="#F2F7FD" letter-spacing="1.6">EMAIL</text><text x="46" y="41" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="400" fill="#7C8EA9" letter-spacing="0.4">mirkashi111@gmail.com</text><text x="244" y="32" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#A78BFA" text-anchor="end" opacity="0.85">↗</text></svg>
