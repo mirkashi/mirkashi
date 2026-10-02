@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="452" viewBox="0 0 1000 452" role="img" aria-label="Build. Learn. Grow. — Mir Kashif, full-stack developer"><defs>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A11"/>
+      <stop offset="0.55" stop-color="#080E17"/>
+      <stop offset="1" stop-color="#04070C"/>
+    </linearGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid16" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#101B2B" stroke-width="1" opacity=".5"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft8" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="soft3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="clipSurface"><rect x="0" y="0" width="1200" height="100%" rx="0"/></clipPath>
+  </defs><linearGradient id="footerSweep" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.45" stop-color="#22D3EE" stop-opacity="0.75"/><stop offset="0.55" stop-color="#A78BFA" stop-opacity="0.75"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <animate attributeName="x1" values="-300;1300" dur="6s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1600" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient><linearGradient id="closingType" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#7FE3F5"/><stop offset="1" stop-color="#A78BFA"/>
+      </linearGradient><radialGradient id="closingHalo" cx="50%" cy="50%" r="50%">
+        <stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+      </radialGradient><clipPath id="frame"><rect x="0" y="0" width="1000" height="452" rx="18"/></clipPath><g clip-path="url(#frame)"><rect width="1000" height="452" fill="url(#surface)"/><rect width="1000" height="452" fill="url(#grid16)" opacity=".42"/><ellipse cx="500" cy="45.2" rx="420" ry="226" fill="url(#glowCyan)" opacity=".5"/><ellipse cx="500" cy="497.2" rx="340" ry="203.4" fill="url(#glowViolet)" opacity=".45"/><ellipse cx="500" cy="196" rx="330" ry="180" fill="url(#closingHalo)"/><circle cx="500" cy="196" r="176" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.22" stroke-dasharray="24 18">
+        <animateTransform attributeName="transform" type="rotate" from="0 500 196" to="360 196" dur="28s" repeatCount="indefinite"/>
+      </circle><circle cx="500" cy="196" r="136" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.18" stroke-dasharray="8 14">
+        <animateTransform attributeName="transform" type="rotate" from="0 500 196" to="-360 196" dur="40s" repeatCount="indefinite"/>
+      </circle><circle cx="500" cy="196" r="98" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.14" stroke-dasharray="3 9">
+        <animateTransform attributeName="transform" type="rotate" from="0 500 196" to="360 196" dur="52s" repeatCount="indefinite"/>
+      </circle><circle cx="500" cy="196" r="4" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;.3;1" dur="3.2s" repeatCount="indefinite"/></circle><text x="500" y="118" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" fill="#7C8EA9" letter-spacing="4">06 / THE NEXT BUILD</text><text x="500" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="48" font-weight="750" fill="url(#closingType)" text-anchor="middle" letter-spacing="-0.6">Build. Learn. Grow.</text><text x="500" y="252" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#A7B9D2" text-anchor="middle" letter-spacing="1.2">Same person, bigger dreams.</text><rect x="0" y="330" width="1000" height="1.4" fill="url(#footerSweep)" opacity=".9"/><text x="500" y="372" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#7C8EA9" text-anchor="middle" letter-spacing="2.8">MIR KASHIF   ·   @MIRKASHI   ·   FULL-STACK DEVELOPER   ·   ISLAMABAD, PAKISTAN</text><text x="500" y="404" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5A6B85" text-anchor="middle">Open to freelance work, collaboration and full-time roles — if the idea is worth</text><text x="500" y="424" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#5A6B85" text-anchor="middle">shipping, let’s build it properly.</text><g stroke="#1E4A63" stroke-width="1.2" fill="none"><path d="M0 18 V0 H18" transform="translate(14 14)"/><path d="M0 18 V0 H-18" transform="translate(986 14)"/><path d="M0 18 V0 H18" transform="translate(986 438) rotate(180)"/><path d="M0 18 V0 H-18" transform="translate(14 438) rotate(180)"/></g></g><rect x="0.5" y="0.5" width="999" height="451" rx="17.5" fill="none" stroke="#16243A" stroke-width="1"/></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="6" viewBox="0 0 1000 6" role="img" aria-label="divider"><defs>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A11"/>
+      <stop offset="0.55" stop-color="#080E17"/>
+      <stop offset="1" stop-color="#04070C"/>
+    </linearGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft8" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="soft3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="clipSurface"><rect x="0" y="0" width="1200" height="100%" rx="0"/></clipPath>
+  </defs><linearGradient id="divSweep" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="20" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="0.4" stop-color="#22D3EE" stop-opacity="0.9"/><stop offset="0.6" stop-color="#A78BFA" stop-opacity="0.9"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <animate attributeName="x1" values="-400;1400" dur="7s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="20;1820" dur="7s" begin="0s" repeatCount="indefinite"/>
+    </linearGradient><rect x="0" y="2" width="1000" height="1" fill="#101B2B"/><rect x="0" y="2" width="1000" height="1.6" fill="url(#divSweep)"/></svg>

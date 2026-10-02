@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-label="SitePulse — audit engine · studio"><defs>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A11"/>
+      <stop offset="0.55" stop-color="#080E17"/>
+      <stop offset="1" stop-color="#04070C"/>
+    </linearGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid16" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#101B2B" stroke-width="1" opacity=".5"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft8" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="soft3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="clipSurface"><rect x="0" y="0" width="1200" height="100%" rx="0"/></clipPath>
+  </defs><defs>
+      <clipPath id="cardClip"><rect x="0" y="0" width="1000" height="444" rx="16"/></clipPath>
+      <clipPath id="shotClip"><path d="M0 37 H1000 V216 A16 16 0 0 1 984 232 H16 A16 16 0 0 1 0 216 Z"/></clipPath>
+      <linearGradient id="cardSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winBg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#0C1420"/><stop offset="1" stop-color="#060B13"/>
+      </linearGradient>
+      <linearGradient id="artAccent" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/>
+      </linearGradient>
+      <linearGradient id="artThumb" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#16324C"/><stop offset="1" stop-color="#2A1F4D"/>
+      </linearGradient>
+      <radialGradient id="winGlow" cx="76%" cy="58%" r="72%">
+        <stop offset="0" stop-color="#22D3EE" stop-opacity=".28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="winGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M20 0H0V20" fill="none" stroke="#16273C" stroke-width="1" opacity=".55"/>
+      </pattern>
+    </defs><g clip-path="url(#cardClip)">
+    <rect width="1000" height="444" fill="#080D16"/>
+    <rect y="37" width="1000" height="195" fill="url(#winBg)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGrid)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGlow)"/>
+    <path d="M155.37 118.13 L144.69 120.79" stroke="#22D3EE" stroke-width="2" opacity="0.9"/><path d="M154.33 112.47 L148.37 113.18" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M154 106.72 L148 106.69" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M154.4 100.98 L148.45 100.2" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M155.5 95.34 L149.7 93.81" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M157.31 89.87 L147.1 85.77" stroke="#22D3EE" stroke-width="2" opacity="0.9"/><path d="M159.78 84.67 L154.53 81.76" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M162.88 79.83 L158.04 76.28" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M166.57 75.41 L162.21 71.29" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M170.77 71.48 L166.96 66.85" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M175.44 68.11 L169.56 58.81" stroke="#22D3EE" stroke-width="2" opacity="0.9"/><path d="M180.48 65.35 L177.94 59.91" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M185.84 63.23 L183.99 57.53" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M191.41 61.81 L190.29 55.91" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M197.12 61.09 L196.75 55.1" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M202.88 61.09 L203.57 50.11" stroke="#22D3EE" stroke-width="2" opacity="0.9"/><path d="M208.59 61.81 L209.71 55.91" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M214.16 63.23 L216.01 57.53" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M219.52 65.35 L222.06 59.91" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M224.56 68.11 L227.77 63.03" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M229.23 71.48 L236.22 62.98" stroke="#22D3EE" stroke-width="2" opacity="0.9"/><path d="M233.43 75.41 L237.79 71.29" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M237.12 79.83 L241.96 76.28" stroke="#22D3EE" stroke-width="1.2" opacity="0.9"/><path d="M240.22 84.67 L245.47 81.76" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M242.69 89.87 L248.26 87.64" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M244.5 95.34 L255.14 92.55" stroke="#26405A" stroke-width="2" opacity="0.6"/><path d="M245.6 100.98 L251.55 100.2" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M246 106.72 L252 106.69" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M245.67 112.47 L251.63 113.18" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M244.63 118.13 L250.46 119.58" stroke="#26405A" stroke-width="1.2" opacity="0.6"/><path d="M155.37 118.13 A46 46 0 0 1 244.63 118.13" fill="none" stroke="#22D3EE" stroke-width="2.4" opacity=".32"/><line x1="200" y1="107" x2="200" y2="69" stroke="#22D3EE" stroke-width="2" opacity=".85">
+      <animateTransform attributeName="transform" type="rotate" values="-112 200 107;112 200 107;-112 200 107" dur="9s" repeatCount="indefinite"/></line><circle cx="200" cy="107" r="3" fill="#22D3EE"/><text x="200" y="145" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="27" font-weight="700" fill="#FFFFFF" text-anchor="middle">92</text><text x="200" y="161" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="400" fill="#22D3EE" text-anchor="middle" letter-spacing="2">HEALTH SCORE</text><text x="18" y="220" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="2">EVIDENCE-BASED AUDIT</text><text x="460" y="63" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="1.8">PERFORMANCE</text><text x="966" y="63" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#EAF2FB" text-anchor="end">96</text><rect x="460" y="73" width="506" height="4" rx="2" fill="#182B41"/><rect x="460" y="73" width="485.76" height="4" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;.45;1" dur="3.0s" repeatCount="indefinite"/></rect><text x="460" y="105" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="1.8">SEO</text><text x="966" y="105" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#EAF2FB" text-anchor="end">91</text><rect x="460" y="115" width="506" height="4" rx="2" fill="#182B41"/><rect x="460" y="115" width="460.46" height="4" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;.45;1" dur="4.0s" repeatCount="indefinite"/></rect><text x="460" y="147" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="1.8">ACCESSIBILITY</text><text x="966" y="147" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#EAF2FB" text-anchor="end">88</text><rect x="460" y="157" width="506" height="4" rx="2" fill="#182B41"/><rect x="460" y="157" width="445.28" height="4" rx="2" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;.45;1" dur="5.0s" repeatCount="indefinite"/></rect>
+    <rect width="1000" height="37" fill="#0A1119"/><rect width="1000" height="1" fill="url(#winSheen)"/><circle cx="22" cy="18.5" r="4" fill="#1E324A"/><circle cx="37" cy="18.5" r="4" fill="#1E324A"/><circle cx="52" cy="18.5" r="4" fill="#1E324A"/><text x="76" y="22" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" letter-spacing="0.6">sitepulse-rho.vercel.app</text><circle cx="978" cy="18.5" r="3.2" fill="#22D3EE" opacity=".8">
+      <animate attributeName="opacity" values=".8;.25;.8" dur="3.4s" repeatCount="indefinite"/></circle><rect x="0" y="36" width="1000" height="1" fill="#101B2B"/>
+    <rect y="232" width="1000" height="1.4" fill="#05070C"/>
+    <rect y="233.4" width="1000" height="1" fill="url(#cardSheen)" opacity=".5"/>
+  </g><text x="28" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#22D3EE" letter-spacing="2.6">AUDIT ENGINE · STUDIO</text><text x="972" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end" letter-spacing="1.4">04</text><text x="28" y="288" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="650" fill="#FFFFFF" letter-spacing="-0.3">SitePulse</text><text x="28" y="314" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">Point it at any public URL and get an evidence-based health audit — performance, SEO, accessibility, security and</text><text x="28" y="332" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">more.</text><rect x="28" y="354" width="92" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="41" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Next.js 14</text><rect x="128" y="354" width="72" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="141" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Express</text><rect x="208" y="354" width="92" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="221" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Playwright</text><rect x="308" y="354" width="46" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="321" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">SSE</text><rect x="362" y="354" width="72" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="375" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">MongoDB</text><defs><linearGradient id="cfsitepulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E4A63" stop-opacity="0.4"/><stop offset="1" stop-color="transparent" stop-opacity="0"/></linearGradient></defs><rect x="28" y="398" width="944" height="1" fill="url(#cfsitepulse)"/><g transform="translate(28 408) scale(0.54)"><path d="M12 2.2a9.8 9.8 0 1 0 0 19.6 9.8 9.8 0 0 0 0-19.6Zm6.9 6.1h-2.6a15.6 15.6 0 0 0-1.3-3.4 8 8 0 0 1 3.9 3.4ZM12 4.2c.8 1.1 1.5 2.4 1.9 4.1h-3.8c.4-1.7 1.1-3 1.9-4.1ZM4.3 13.4a8 8 0 0 1 0-2.8h3c-.1.9-.1 1.9 0 2.8h-3Zm.8 2h2.6c.3 1.2.8 2.4 1.3 3.4a8 8 0 0 1-3.9-3.4Zm2.6-6.8H5.1a8 8 0 0 1 3.9-3.4c-.5 1-1 2.2-1.3 3.4Zm4.3 9.8c-.8-1.1-1.5-2.4-1.9-4.1h3.8c-.4 1.7-1.1 3-1.9 4.1Zm2.2 2.3c.5-1 1-2.2 1.3-3.4h2.6a8 8 0 0 1-3.9 3.4Zm1.9-5.5c.1-.9.1-1.9 0-2.8h3.2a8 8 0 0 1 0 2.8h-3.2Z" fill="#22D3EE" opacity="0.9"/></g><text x="48" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#7C8EA9" letter-spacing="0.3">sitepulse-rho.vercel.app</text><text x="972" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#22D3EE" text-anchor="end" letter-spacing="1.6" opacity="0.95">VIEW →</text><rect x="0.5" y="0.5" width="999" height="443" rx="16" fill="none" stroke="#16243A" stroke-width="1"/></svg>

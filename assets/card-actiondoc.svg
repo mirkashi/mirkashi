@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-label="ActionDoc AI — ai · studio"><defs>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#080D16"/>
+    </linearGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A11"/>
+      <stop offset="0.55" stop-color="#080E17"/>
+      <stop offset="1" stop-color="#04070C"/>
+    </linearGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid16" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#101B2B" stroke-width="1" opacity=".5"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="soft8" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="soft3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="clipSurface"><rect x="0" y="0" width="1200" height="100%" rx="0"/></clipPath>
+  </defs><defs>
+      <clipPath id="cardClip"><rect x="0" y="0" width="1000" height="444" rx="16"/></clipPath>
+      <clipPath id="shotClip"><path d="M0 37 H1000 V216 A16 16 0 0 1 984 232 H16 A16 16 0 0 1 0 216 Z"/></clipPath>
+      <linearGradient id="cardSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winSheen" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="winBg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#0C1420"/><stop offset="1" stop-color="#060B13"/>
+      </linearGradient>
+      <linearGradient id="artAccent" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/>
+      </linearGradient>
+      <linearGradient id="artThumb" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#16324C"/><stop offset="1" stop-color="#2A1F4D"/>
+      </linearGradient>
+      <radialGradient id="winGlow" cx="76%" cy="58%" r="72%">
+        <stop offset="0" stop-color="#A78BFA" stop-opacity=".28"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="winGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <path d="M20 0H0V20" fill="none" stroke="#16273C" stroke-width="1" opacity=".55"/>
+      </pattern>
+    </defs><g clip-path="url(#cardClip)">
+    <rect width="1000" height="444" fill="#080D16"/>
+    <rect y="37" width="1000" height="195" fill="url(#winBg)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGrid)"/>
+    <rect y="37" width="1000" height="195" fill="url(#winGlow)"/>
+    <text x="30" y="61" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#5A6B85" letter-spacing="2">DOCUMENT</text><rect x="120" y="76" width="280" height="117" rx="10" fill="#0B1320" stroke="#223A56"/><rect x="120" y="76" width="280" height="32" rx="10" fill="#12203A" opacity=".7"/><text x="140" y="98" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#A7B9D2">Q3-brief.pdf</text><rect x="140" y="130" width="240" height="5" rx="2.5" fill="#33455C"/><rect x="140" y="145" width="220" height="5" rx="2.5" fill="#33455C"/><rect x="140" y="160" width="200" height="5" rx="2.5" fill="#33455C"/><rect x="140" y="175" width="240" height="5" rx="2.5" fill="#33455C"/><rect x="140" y="190" width="220" height="5" rx="2.5" fill="#33455C"/><rect x="140" y="205" width="200" height="5" rx="2.5" fill="#33455C"/><path d="M414 122 h50" stroke="#A78BFA" stroke-width="1.4" opacity=".45" fill="none"/><path d="M420 148 h50" stroke="#A78BFA" stroke-width="1.4" opacity=".45" fill="none"/><path d="M426 174 h50" stroke="#A78BFA" stroke-width="1.4" opacity=".45" fill="none"/><path d="M440 134.5 h45" stroke="#A78BFA" stroke-width="2" fill="none" stroke-dasharray="6 5">
+      <animate attributeName="stroke-dashoffset" values="0;-22" dur="1.2s" repeatCount="indefinite"/></path><path d="M485 129.5 l6 5 -6 5" fill="none" stroke="#A78BFA" stroke-width="1.8"/><rect x="560" y="70.5" width="310" height="34" rx="9" fill="#0B1420" stroke="#1E3752"/><circle cx="578" cy="87.5" r="6" fill="none" stroke="#A78BFA" stroke-width="1.6" opacity="0.5"/><path d="M575 87.5 l2.5 2.5 4.5 -5" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round"/><text x="594" y="91.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#EAF2FB">Design review</text><text x="854" y="91.5" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end">Fri</text><rect x="560" y="114.5" width="310" height="34" rx="9" fill="#0B1420" stroke="#1E3752"/><circle cx="578" cy="131.5" r="6" fill="none" stroke="#A78BFA" stroke-width="1.6" opacity="0.7"/><path d="M575 131.5 l2.5 2.5 4.5 -5" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round"/><text x="594" y="135.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#EAF2FB">Send invoice</text><text x="854" y="135.5" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end">Mon</text><rect x="560" y="158.5" width="310" height="34" rx="9" fill="#0B1420" stroke="#1E3752"/><circle cx="578" cy="175.5" r="6" fill="none" stroke="#A78BFA" stroke-width="1.6" opacity="0.9"/><path d="M575 175.5 l2.5 2.5 4.5 -5" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-linecap="round"/><text x="594" y="179.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#EAF2FB">Ship v2</text><text x="854" y="179.5" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end">Wed</text><text x="560" y="56.5" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="400" fill="#A78BFA" letter-spacing="1.6" opacity="0.9">EXTRACTED ACTIONS · AWAITING APPROVAL</text>
+    <rect width="1000" height="37" fill="#0A1119"/><rect width="1000" height="1" fill="url(#winSheen)"/><circle cx="22" cy="18.5" r="4" fill="#1E324A"/><circle cx="37" cy="18.5" r="4" fill="#1E324A"/><circle cx="52" cy="18.5" r="4" fill="#1E324A"/><text x="76" y="22" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" letter-spacing="0.6">actiondoc-ai — studio build</text><circle cx="978" cy="18.5" r="3.2" fill="#A78BFA" opacity=".8">
+      <animate attributeName="opacity" values=".8;.25;.8" dur="3.4s" repeatCount="indefinite"/></circle><rect x="0" y="36" width="1000" height="1" fill="#101B2B"/>
+    <rect y="232" width="1000" height="1.4" fill="#05070C"/>
+    <rect y="233.4" width="1000" height="1" fill="url(#cardSheen)" opacity=".5"/>
+  </g><text x="28" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#A78BFA" letter-spacing="2.6">AI · STUDIO</text><text x="972" y="262" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#5A6B85" text-anchor="end" letter-spacing="1.4">03</text><text x="28" y="288" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="650" fill="#FFFFFF" letter-spacing="-0.3">ActionDoc AI</text><text x="28" y="314" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">AI document intelligence: it pulls tasks, owners and deadlines out of business documents as suggestions a human</text><text x="28" y="332" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#A7B9D2">approves.</text><rect x="28" y="354" width="92" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="41" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">TypeScript</text><rect x="128" y="354" width="72" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="141" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Next.js</text><rect x="208" y="354" width="66" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="221" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">pdf.js</text><rect x="282" y="354" width="46" height="24" rx="6" fill="#0C1524" stroke="#1B2E44"/><text x="295" y="370" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="400" fill="#A7B9D2" letter-spacing="0.3">Zod</text><defs><linearGradient id="cfactiondoc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E4A63" stop-opacity="0.4"/><stop offset="1" stop-color="transparent" stop-opacity="0"/></linearGradient></defs><rect x="28" y="398" width="944" height="1" fill="url(#cfactiondoc)"/><g transform="translate(28 408) scale(0.54)"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#7C8EA9" opacity="0.85"/></g><text x="48" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#7C8EA9" letter-spacing="0.3">source on github</text><text x="972" y="420" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#A78BFA" text-anchor="end" letter-spacing="1.6" opacity="0.95">VIEW →</text><rect x="0.5" y="0.5" width="999" height="443" rx="16" fill="none" stroke="#16243A" stroke-width="1"/></svg>
